@@ -1,4 +1,4 @@
-<title>Minglai Shao (邵明来)</title>
+<head><title>Minglai Shao (邵明来)</title></head>
 <table border="0">
   <tr>
     <td width="75%">
