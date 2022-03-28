@@ -1,4 +1,4 @@
-
+<title>Minglai Shao (邵明来)</title>
 <table border="0">
   <tr>
     <td width="75%">
@@ -32,8 +32,6 @@ If you are interested in the position, please send everything that you believe w
 - 2015--2020, Beihang University, School of Computer Science and Engineering, Doctor Degree, Supervisor: [Jianxin Li](http://act.buaa.edu.cn/lijx/).
 - 2018--2019, State University of New York (SUNY), Computer Science, Visiting Students.
 
-### Research Experience
-- 2021 -- now, Tianjin University, China, Assistant Professor.
 
 ### Academic Activities
 - PC：WWW, IJCAI, etc
