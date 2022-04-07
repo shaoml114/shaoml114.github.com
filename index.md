@@ -25,7 +25,7 @@ If you are interested in the position, please send everything that you believe w
 
 ### Research Interests
 - Graph Deep Learning, Machine Learning, Data Mining.
-- Anomaly Detection, Intelligent Communication, NLP, Data Privacy.
+- Anomaly Detection, NLP, Intelligent Communication,  Data Privacy.
 - Social Media, Bigdata.
 
 ### Eduction Experience
