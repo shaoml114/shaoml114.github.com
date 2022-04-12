@@ -54,6 +54,7 @@ If you are interested in the position, please send everything that you believe w
 - **Minglai Shao**, Jianxin Li, Feng Chen, Xunxun Chen. An efficient framework for detecting evolving anomalous subgraphs in dynamic networks[C]//IEEE INFOCOM 2018-IEEE Conference on Computer Communications (**INFOCOM**), 2018 (CCF A)
 - **Minglai Shao**, Jianxin Li, Feng Chen, Hongyi Huang, Shuai Zhang, Xunxun Chen. An efficient approach to event detection and forecasting in dynamic multivariate social media networks[C]//Proceedings of the 26th International Conference on World Wide Web(**WWW**), 2017 (CCF A)
 - Shuai Zhang, Jianxin Li, Pengtao Xie, Yingchun Zhang, **Minglai Shao**, Haoyi Zhou, Mengyi Yan. Stacked kernel network[J]. arXiv preprint arXiv:1711.09219, 2017.
+- **Minglai Shao**, Liangxi Qin. Clustering Algorithm Combined Granular Computing, Ant Colony Algorithm and Fuzzy Idea. Computer Technology and Development. 2015.
 - **Minglai Shao**, Liangxi Qin. Text similarity computing based on LDA topic model and word co-occurrence[C]//Proceedings of the 2nd International Conference on Software Engineering, Knowledge Engineering and Information Engineering (SEKEIE 2014).
 
 
