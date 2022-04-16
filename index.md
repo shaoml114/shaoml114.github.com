@@ -62,5 +62,6 @@ If you are interested in the position, please send everything that you believe w
 - Outstanding Graduate of Beijing.
 - PhD National Scholarship.
 - Zhonghangji Scholarship.
+- CNCERT Outstanding Research Award.
 - 2018/2020 Top-10 Doctoral Students Candidate of Beihang University, etc.
 
