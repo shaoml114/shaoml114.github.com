@@ -34,7 +34,7 @@ If you are interested in the position, please send everything that you believe w
 
 
 ### Academic Activities
-- PC：WWW, IJCAI, etc
+- PC：WWW, IJCAI, KDD, etc
 - Reviewer: WWW, IJCAI, TDSC, TKDE, ICDM, KDD, etc.
 
 ### Publications
