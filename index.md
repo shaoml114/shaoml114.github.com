@@ -39,13 +39,13 @@ If you are interested in the position, please send everything that you believe w
 
 ### Publications
 
-### 2022
+**2022**
 - Qiyao Peng, Hongtao Liu, Yinghui Wang, Hongyan Xu, Pengfei Jiao, **Minglai Shao**, Wenjun Wang. Towards a Multi-view Attentive Matching for Personalized Expert Finding [C]. Proceedings of the ACM Web Conference (**WWW**), 2022 (CCF-A)(Corresponding author)
 - Yinghui Wang, Qiyao Peng, Wenjun Wang, Xuan Guo, **Minglai Shao**, Hongtao Liu, Wei Liang, Lin Pan. Combining Heterogeneity of Anchor Nodes for Network Alignment.  Knowledge-Based Systems, 2022. (SCI 1区) (Corresponding author)
 - Jun Zhao, **Minglai Shao**, Hong Wang, Xiaomei Yu, Bo Li, Xudong Liu. Cyber threat prediction using dynamic heterogeneous graph learning[J]. Knowledge-Based Systems, 2022 (SCI 1区)
 - Y. Yu, W. Wang, N. Wu, Liu H., **M. Shao**. IISD: Integrated interaction subgraph detection for event mining[J]. Knowledge-Based Systems, 2022. (SCI 1区) (Corresponding author)
 
-### 2021
+**2021**
 
 - **Minglai Shao**, Jianxin Li, Qiben Yan, Feng Chen, Hongyi Huang, Xunxun Che. Structured sparsity model based trajectory tracking using private location data release[J]. IEEE Transactions on Dependable and Secure Computing (**TDSC**), 2021 (CCF A, SCI 1区)
 - **Minglai Shao**, Jianxin Li, Yue Chang, Jun Zhao, Xunxun Chen. MASA: An efficient framework for anomaly detection in multi-attributed networks[J]. Computers & Security, 2021. (CCF B)
@@ -54,7 +54,8 @@ If you are interested in the position, please send everything that you believe w
 - Jun Zhao, **Minglai Shao**, Hao Peng, Hong Wang, Bo Li, Xudong Liu. Porn2Vec: A robust framework for detecting pornographic websites based on contrastive learning[J]. Knowledge-Based Systems, 2021.(SCI 1区)
 - Jun Zhao, Xudong Liu, Qiben Yan, Bo Li, **Minglai Shao**, Hao Peng, Lichao Sun.Automatically predicting cyber attack preference with attributed heterogeneous attention networks and transductive learning[J]. Computers & Security, 2021.(CCF B)
 
-### Prior to 2021
+**Prior to 2021**
+
 - Jun Zhao, Xudong Liu, Qiben Yan, Bo Li, **Minglai Shao**, Hao Peng.Multi-attributed heterogeneous graph convolutional network for bot detection[J]. Information Sciences, 2020. (CCF B, SCI 1区)
 - **Minglai Shao**, Peiyuan Sun, Jianxin Li, Qiben Yan, Zhirui Feng. Tree decomposition based anomalous connected subgraph scanning for detecting and forecasting events in attributed social media networks[J]. Neurocomputing, 2020.
 - Jun Zhao, Qiben Yan, Jianxin Li, **Minglai Shao**, Zuti He, Bo Li. TIMiner: Automatically extracting and analyzing categorized cyber threat intelligence from social data[J]. Computers & Security, 2020, 95: 101867. (CCF B)
