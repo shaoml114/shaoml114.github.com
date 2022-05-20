@@ -39,7 +39,8 @@ If you are interested in the position, please send everything that you believe w
 
 ### Publications
 
-- Qiyao Peng, Hongtao Liu, Yinghui Wang, Hongyan Xu, Pengfei Jiao, **Minglai Shao**,Wenjun Wang. Towards a Multi-view Attentive Matching for Personalized Expert Finding [C]. Proceedings of the ACM Web Conference (**WWW**), 2022 (CCF-A)(Corresponding author)
+- Qiyao Peng, Hongtao Liu, Yinghui Wang, Hongyan Xu, Pengfei Jiao, **Minglai Shao**, Wenjun Wang. Towards a Multi-view Attentive Matching for Personalized Expert Finding [C]. Proceedings of the ACM Web Conference (**WWW**), 2022 (CCF-A)(Corresponding author)
+- Yinghui Wang, Qiyao Peng, Wenjun Wang, Xuan Guo, **Minglai Shao**, Hongtao Liu, Wei Liang, Lin Pan. Combining Heterogeneity of Anchor Nodes for Network Alignment.  Knowledge-Based Systems, 2022. (SCI 1区) (Corresponding author)
 - Jun Zhao, **Minglai Shao**, Hong Wang, Xiaomei Yu, Bo Li, Xudong Liu. Cyber threat prediction using dynamic heterogeneous graph learning[J]. Knowledge-Based Systems, 2022 (SCI 1区)
 - Y. Yu, W. Wang, N. Wu, Liu H., **M. Shao**. IISD: Integrated interaction subgraph detection for event mining[J]. Knowledge-Based Systems, 2022. (SCI 1区) (Corresponding author)
 - **Minglai Shao**, Jianxin Li, Qiben Yan, Feng Chen, Hongyi Huang, Xunxun Che. Structured sparsity model based trajectory tracking using private location data release[J]. IEEE Transactions on Dependable and Secure Computing (**TDSC**), 2021 (CCF A, SCI 1区)
