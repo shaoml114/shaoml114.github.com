@@ -2,7 +2,7 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>Minglai Shao</h1>
+      <h1>Minglai Shao, Ph.D.</h1>
       <p><b>Assistant Professor</b></p>
       <p><b>Smart Society and Big Data Intelligence Lab</b></p>
       <p><b>Tianjin University, China</b></p>
