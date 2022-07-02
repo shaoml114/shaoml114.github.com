@@ -44,8 +44,8 @@ If you are interested in the position, please send everything that you believe w
 - Y. Yu, W. Wang, N. Wu, Liu H., **M. Shao**. IISD: Integrated interaction subgraph detection for event mining[J]. Knowledge-Based Systems, 2022. (SCI 1区) (Corresponding author)
 - Jun Zhao, **Minglai Shao**, Hong Wang, Xiaomei Yu, Bo Li, Xudong Liu. Cyber threat prediction using dynamic heterogeneous graph learning[J]. Knowledge-Based Systems, 2022 (SCI 1区)
 - Yinghui Wang, Qiyao Peng, Wenjun Wang, Xuan Guo, **Minglai Shao**, Hongtao Liu, Wei Liang, Lin Pan. Combining Heterogeneity of Anchor Nodes for Network Alignment[J].  Knowledge-Based Systems, 2022. (SCI 1区) (Corresponding author)
-- Sunlin Hu, **Minglai Shao**, Dual Perspective Contrastive Learning Based Subgraph Anomaly Detection on Attributed Networks. 31st International Conference on Artificial Neural Networks, 2022.  (Corresponding author)
 - Yang Yu, Wenjun Wang, **Minglai Shao**, Nannan Wu, Ying Sun, Yueheng Sun, Qiang Tian. Multi-users Interaction Anomalous Subgraph Detection for Event Mining. Neurocomputing[J], 2022.
+- Sunlin Hu, **Minglai Shao**, Dual Perspective Contrastive Learning Based Subgraph Anomaly Detection on Attributed Networks. 31st International Conference on Artificial Neural Networks, 2022.  (Corresponding author)
 - Yinghui Wang, Wenjun Wang, Zixu Zhen, Qiyao Peng, Pengfei Jiao, Wei Liang,  **Minglai Shao**, Yueheng Sun. Geometry Interaction Network Alignment. Neurocomputing[J], 2022.
 
 
