@@ -46,6 +46,7 @@ If you are interested in the position, please send everything that you believe w
 - Yinghui Wang, Qiyao Peng, Wenjun Wang, Xuan Guo, **Minglai Shao**, Hongtao Liu, Wei Liang, Lin Pan. Combining Heterogeneity of Anchor Nodes for Network Alignment[J].  Knowledge-Based Systems, 2022. (SCI 1区) (Corresponding author)
 - Yang Yu, Wenjun Wang, **Minglai Shao**, Nannan Wu, Ying Sun, Yueheng Sun, Qiang Tian. Multi-users Interaction Anomalous Subgraph Detection for Event Mining. Neurocomputing[J], 2022.
 - Sunlin Hu, **Minglai Shao**, Dual Perspective Contrastive Learning Based Subgraph Anomaly Detection on Attributed Networks. 31st International Conference on Artificial Neural Networks, 2022.  (Corresponding author)
+- Yulu Li, Qiyao Peng, Hongtao Liu, **Minglai Shao**, Pengfei Jiao, and Wenjun Wang. Expertise-oriented Explainable Question Routing. EAI CollaborateCom 2022. (Corresponding author)
 - Yinghui Wang, Wenjun Wang, Zixu Zhen, Qiyao Peng, Pengfei Jiao, Wei Liang,  **Minglai Shao**, Yueheng Sun. Geometry Interaction Network Alignment. Neurocomputing[J], 2022.
 
 
