@@ -53,7 +53,7 @@ If you are interested in the position, please send everything that you believe w
 - **Minglai Shao**, Jianxin Li, Qiben Yan, Feng Chen, Hongyi Huang, Xunxun Che. Structured sparsity model based trajectory tracking using private location data release[J]. IEEE Transactions on Dependable and Secure Computing (**TDSC**), 2021 (CCF A, SCI 1区)
 - **Minglai Shao**, Jianxin Li, Yue Chang, Jun Zhao, Xunxun Chen. MASA: An efficient framework for anomaly detection in multi-attributed networks[J]. Computers & Security, 2021. (CCF B)
 - Jiachao Wu, Jiang Shen, Man Xu, **Minglai Shao**. A novel combined dynamic ensemble selection model for imbalanced data to detect COVID-19 from complete blood count[J]. Computer Methods and Programs in Biomedicine, 2021. (SCI Q1)
-- Yang Yu, **Minglai Shao**, Hongyan Xu, Ying Sun, Wenjun Wang, Bofei Ma. PGraph: A Graph-based Structure for Interactive Event Exploration on Social Media[C]//2021 28th Asia-Pacific Software Engineering Conference (APSEC). IEEE, 2021: 72-81. (Corresponding author)
+- Yang Yu, **Minglai Shao**, Hongyan Xu, Ying Sun, Wenjun Wang, Bofei Ma. PGraph: A Graph-based Structure for Interactive Event Exploration on Social Media[C]//2021 28th Asia-Pacific Software Engineering Conference (APSEC). IEEE, 2021: 72-81. 
 - Jun Zhao, **Minglai Shao**, Hao Peng, Hong Wang, Bo Li, Xudong Liu. Porn2Vec: A robust framework for detecting pornographic websites based on contrastive learning[J]. Knowledge-Based Systems, 2021.(SCI 1区)
 - Jun Zhao, Xudong Liu, Qiben Yan, Bo Li, **Minglai Shao**, Hao Peng, Lichao Sun.Automatically predicting cyber attack preference with attributed heterogeneous attention networks and transductive learning[J]. Computers & Security, 2021.(CCF B)
 
