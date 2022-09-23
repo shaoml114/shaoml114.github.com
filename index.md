@@ -24,9 +24,9 @@ If you are interested in the position, please send everything that you believe w
 ---
 
 ### Research Interests
-- Graph Deep Learning, Machine Learning, Data Mining.
+- Deep Learning, Machine Learning, Data Mining.
 - Anomaly Detection, Natural Language Processing, Intelligent Communication,  Data Privacy.
-- Social Media, Bigdata.
+- Social Media,  Bigdata,.
 
 ### Eduction Experience
 - 2015--2020, Beihang University, School of Computer Science and Engineering, Doctor Degree, Supervisor: [Jianxin Li](http://act.buaa.edu.cn/lijx/).
