@@ -43,6 +43,7 @@ If you are interested in the position, please send everything that you believe w
 - Qiyao Peng, Hongtao Liu, Yinghui Wang, Hongyan Xu, Pengfei Jiao, **Minglai Shao**, Wenjun Wang. Towards a Multi-view Attentive Matching for Personalized Expert Finding [C]. Proceedings of the ACM Web Conference (**WWW**), 2022 (CCF-A) 
 - Y. Yu, W. Wang, N. Wu, Liu H., **M. Shao**. IISD: Integrated interaction subgraph detection for event mining[J]. Knowledge-Based Systems, 2022. (SCI 1区) 
 - Jun Zhao, **Minglai Shao**, Hong Wang, Xiaomei Yu, Bo Li, Xudong Liu. Cyber threat prediction using dynamic heterogeneous graph learning[J]. Knowledge-Based Systems, 2022 (SCI 1区)
+- Qiyao Peng, Wenjun Wang, Hongtao Liu, **Minglai Shao**. Towards Comprehensive Expert Finding with a Hierarchical Matching Network, Knowledge-Based Systems, 2022 (SCI 1区)
 - Yinghui Wang, Qiyao Peng, Wenjun Wang, Xuan Guo, **Minglai Shao**, Hongtao Liu, Wei Liang, Lin Pan. Combining Heterogeneity of Anchor Nodes for Network Alignment[J].  Knowledge-Based Systems, 2022. (SCI 1区) 
 - Yang Yu, Wenjun Wang, **Minglai Shao**, Nannan Wu, Ying Sun, Yueheng Sun, Qiang Tian. Multi-users Interaction Anomalous Subgraph Detection for Event Mining. Neurocomputing[J], 2022.
 - Sunlin Hu, **Minglai Shao**, Dual Perspective Contrastive Learning Based Subgraph Anomaly Detection on Attributed Networks. 31st International Conference on Artificial Neural Networks, 2022.  
