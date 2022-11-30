@@ -77,6 +77,7 @@ If you are interested in the position, please send everything that you believe w
 
 ### Awards/Honors
 - The First Prize of the Second New Engineering Curriculum Design Competition of Tianjin University.
+- “Best Researcher Award" (International Young Scientist Awards, ScienceFather)
 - Outstanding Graduate of Beijing.
 - PhD National Scholarship.
 - Zhonghangji Scholarship.
