@@ -40,6 +40,8 @@ If you are interested in the position, please send everything that you believe w
 ### Publications
 
 
+-Jingjie xie, Wenjun Wang, **Minglai Shao**, tianpeng Li, Yandong Yu, Multi-view Change Point Detection in Dynamic Networks[J], Information Sciences, 2023. (CCF B, SCI 1区)
+
 - Qiyao Peng, Hongtao Liu, Yinghui Wang, Hongyan Xu, Pengfei Jiao, **Minglai Shao**, Wenjun Wang. Towards a Multi-view Attentive Matching for Personalized Expert Finding [C]. Proceedings of the ACM Web Conference (**WWW**), 2022 (CCF-A) 
 -  **Minglai Shao**, et al, Learning Graph Deep Autoencoder for Anomaly Detection in Multi-attributed Networks. Knowledge-Based Systems, 2022. (SCI 1区)
 - Y. Yu, W. Wang, N. Wu, Liu H., **M. Shao**. IISD: Integrated interaction subgraph detection for event mining[J]. Knowledge-Based Systems, 2022. (SCI 1区) 
