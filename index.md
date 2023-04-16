@@ -29,8 +29,8 @@ If you are interested in the position, please send everything that you believe w
 - Social Media, CV, Bigdata.
 
 ### Eduction Experience
-- 2015--2020, Beihang University, School of Computer Science and Engineering, Doctor Degree, Supervisor: [Jianxin Li](http://act.buaa.edu.cn/lijx/).
-- 2018--2019, State University of New York (SUNY), Computer Science, Visiting Students.
+
+Minglai Shao received his doctoral degree in School of Computer Science and Engineering from Beihang University, under the supervision of Prof. [Jianxin Li](https://scse.buaa.edu.cn/info/1354/9245.htm).  He was a visiting scholar in the State University of New York.
 
 
 ### Academic Activities
