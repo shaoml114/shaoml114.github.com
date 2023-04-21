@@ -84,5 +84,5 @@ Minglai Shao received his doctoral degree in School of Computer Science and Engi
 - PhD National Scholarship.
 - Zhonghangji Scholarship.
 - CNCERT Outstanding Research Award.
-- 2018/2020 Top-10 Doctoral Students Candidate of Beihang University, etc.
+- Top-10 Doctoral Students Candidate of Beihang University, etc.
 
