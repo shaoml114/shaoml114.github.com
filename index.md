@@ -4,6 +4,7 @@
     <td width="75%">
       <h1>Minglai Shao, Ph.D.</h1>
       <p><b> Tenured Associate Professor (英才副教授，特聘研究员)</b></p>
+      <p><b> School of New Media and Communication</b></p>
       <p><b>Smart Society and Big Data Intelligence Lab</b></p>
       <p><b>Tianjin University, China</b></p>
       <p><b>Contact: shaoml@tju.edu.cn</b></p>
