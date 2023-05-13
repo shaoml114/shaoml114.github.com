@@ -2,7 +2,7 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>Minglai Shao, Ph.D.</h1>
+      <h1>Minglai Shao(邵明来), Ph.D.</h1>
       <p><b> Tenured Associate Professor (英才副教授，特聘研究员)</b></p>
       <p><b> School of New Media and Communication</b></p>
       <p><b>Smart Society and Big Data Intelligence Lab</b></p>
