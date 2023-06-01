@@ -20,7 +20,7 @@
 ---
 
 We are looking for highly-motivated PhD, master, and undergraduate students to join our group.
-If you are interested in the position, please send your application to Prof. Minglai Shao.
+If you are interested in the position, please send your application to Prof. Shao.
 
 ---
 
