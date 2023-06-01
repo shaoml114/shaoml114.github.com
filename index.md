@@ -4,11 +4,11 @@
     <td width="75%">
       <h1>Minglai Shao (邵明来), Ph.D.</h1>
       <p><b> Tenured Associate Professor (英才副教授，特聘研究员)</b></p>
-      <p><b> School of New Media and Communication</b></p>
+      <p><b> <a href="http://snmc.tju.edu.cn/info/1138/1579.htm"> School of New Media and Communication</b></p>
       <p><b>Smart Society and Big Data Intelligence Lab</b></p>
       <p><b>Tianjin University, China</b></p>
       <p><b>Contact: shaoml@tju.edu.cn</b></p>
-      <p><a href="https://scholar.google.com.sg/citations?user=2FDgNl0AAAAJ&hl=en">google scholar</a></p>
+      <p><b><a href="https://scholar.google.com.sg/citations?user=2FDgNl0AAAAJ&hl=en">google scholar</a></b></p>
     </td>
     <td width="25%">
       <img src="/teacher_shml.jpg" width="100%">                                                                                               
