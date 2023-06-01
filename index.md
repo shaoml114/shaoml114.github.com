@@ -8,7 +8,7 @@
       <p><b>Smart Society and Big Data Intelligence Lab</b></p>
       <p><b>Tianjin University, China</b></p>
       <p><b>Contact: shaoml@tju.edu.cn</b></p>
-      <p><b><a href="https://scholar.google.com.sg/citations?user=2FDgNl0AAAAJ&hl=en">google scholar</a></b></p>
+      <p><a href="https://scholar.google.com.sg/citations?user=2FDgNl0AAAAJ&hl=en">google scholar</a></p>
     </td>
     <td width="25%">
       <img src="/teacher_shml.jpg" width="100%">                                                                                               
