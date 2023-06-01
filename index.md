@@ -29,16 +29,16 @@ If you are interested in the position, please send your application to Prof. Sha
 - Anomaly detection, Natural language processing, Intelligent communication, Data privacy.
 - Data mining and data science in real-world applications.
 
-### Eduction Experience
+### <b>Eduction Experience</b>
 
 Minglai Shao received his doctoral degree in School of Computer Science and Engineering from Beihang University, under the supervision of Prof. [Jianxin Li](https://scse.buaa.edu.cn/info/1354/9245.htm).  He was a visiting scholar in the State University of New York.
 
 
-### Academic Activities
+### <b>Academic Activities</b>
 - PC：WWW, IJCAI, KDD, AAAI, WSDM, etc
 - Reviewer: WWW, IJCAI, TDSC, TIFS, TKDE, ICDM, WSDM, KDD, AAAI, TNNLS, etc.
 
-### Publications
+### <b>Publications</b>
 
 
 - Yingjie Xie, Wenjun Wang, **Minglai Shao***, Tianpeng Li, Yandong Yu, Multi-view Change Point Detection in Dynamic Networks[J], Information Sciences, 2023. (CCF B, SCI 1区)
@@ -81,7 +81,7 @@ Minglai Shao received his doctoral degree in School of Computer Science and Engi
 - **Minglai Shao**, Liangxi Qin. Text similarity computing based on LDA topic model and word co-occurrence[C]//Proceedings of the 2nd International Conference on Software Engineering, Knowledge Engineering and Information Engineering (SEKEIE 2014).
 
 
-### Awards/Honors
+### <b>Awards/Honors</b>
 - The First Prize of the Second New Engineering Curriculum Design Competition of Tianjin University.
 - “Best Researcher Award" 
 - Outstanding Graduate of Beijing.
