@@ -42,7 +42,7 @@ Minglai Shao received his doctoral degree in School of Computer Science and Engi
 
 
 - Yingjie Xie, Wenjun Wang, **Minglai Shao***, Tianpeng Li, Yandong Yu, Multi-view Change Point Detection in Dynamic Networks[J], Information Sciences, 2023. (CCF B, SCI 1区)
-- Yuan Z, **Shao,  M.***, Yan Q. Motif-level Anomaly Detection in Dynamic Graphs[J]. IEEE Transactions on Information Forensics and Security, 2023.(CCF A, SCI 1区)
+- Yuan Z, **Shao,  M.***, Yan Q. Motif-level Anomaly Detection in Dynamic Graphs[J]. IEEE Transactions on Information Forensics and Security (TIFS), 2023.(CCF A, SCI 1区)
 - Wang Y, Wang W, **Shao M**, et al. Deep Cross-Network Alignment with Anchor Node Pair Diverse Local Structure[J]. Algorithms, 2023, 16(5): 234. 
 
 
