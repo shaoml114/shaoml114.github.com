@@ -8,7 +8,7 @@
       <p><b>Smart Society and Big Data Intelligence Lab</b></p>
       <p><b>Tianjin University, China</b></p>
       <p><b>Contact: shaoml@tju.edu.cn</b></p>
-      <p><a href="https://scholar.google.com.sg/citations?user=2FDgNl0AAAAJ&hl=en">google scholar</a></p>
+      <p><b><a href="https://scholar.google.com.sg/citations?user=2FDgNl0AAAAJ&hl=en">google scholar</a></b></p>
     </td>
     <td width="25%">
       <img src="/teacher_shml.jpg" width="100%">                                                                                               
@@ -19,8 +19,8 @@
 
 ---
 
-We are looking for highly-motivated PhD, master, and undergraduate students to join our group.
-If you are interested in the position, please send your application to Prof. Shao.
+<b>We are looking for highly-motivated PhD, master, and undergraduate students to join our group.
+If you are interested in the position, please send your application to Prof. Shao. </b>
 
 ---
 
