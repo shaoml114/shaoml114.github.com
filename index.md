@@ -44,7 +44,7 @@ Minglai Shao received his doctoral degree in School of Computer Science and Engi
 - Yuan Z, **Shao,  M.***, Yan Q. Motif-level Anomaly Detection in Dynamic Graphs[J]. IEEE Transactions on Information Forensics and Security (TIFS), 2023.(CCF A, SCI 1区)
 - Wang Y, Wang W, **Shao M**, et al. Deep Cross-Network Alignment with Anchor Node Pair Diverse Local Structure[J]. Algorithms, 2023, 16(5): 234. 
 - L. Li, Y. Sun, T. Li , and **M. Shao***. Robust Few-shot Graph Anomaly Detection via Graph Coarsening. The 16th International Conference on Knowledge Science, Engineering and Management.
--J. Zhang, W. Wang, T. Li ,  **M. Shao***, et al. Joint Community and Structural Hole Spanner Detection via Graph Contrastive Learning. The 16th International Conference on Knowledge Science, Engineering and Management.
+- J. Zhang, W. Wang, T. Li ,  **M. Shao***, et al. Joint Community and Structural Hole Spanner Detection via Graph Contrastive Learning. The 16th International Conference on Knowledge Science, Engineering and Management.
 
 
 - Qiyao Peng, Hongtao Liu, Yinghui Wang, Hongyan Xu, Pengfei Jiao, **Minglai Shao***, Wenjun Wang. Towards a Multi-view Attentive Matching for Personalized Expert Finding [C]. Proceedings of the ACM Web Conference (**WWW**), 2022 (CCF-A) 
