@@ -5,6 +5,7 @@
       <h1><b>Minglai Shao (邵明来), Ph.D.</b></h1>
       <p><b> Tenured Associate Professor (英才副教授，特聘研究员，博士生导师)</b></p>
       <p><b> <a href="http://snmc.tju.edu.cn/info/1138/1579.htm"> School of New Media and Communication</a></b></p>
+      <p><b> Smart Society and Bigdata Intelligence Team</b></p>
       <p><b><a href="http://www.tju.edu.cn/">Tianjin University, China</a></b></p>
       <p><b>Contact: shaoml@tju.edu.cn</b></p>
       <p><b><a href="https://scholar.google.com.sg/citations?user=2FDgNl0AAAAJ&hl=en">google scholar</a></b></p>
