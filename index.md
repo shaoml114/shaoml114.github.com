@@ -180,15 +180,49 @@ Minglai Shao received his doctoral degree in School of Computer Science and Engi
 </ul>
 
 
+<ul>
+  <li>
+  Multi-attributed heterogeneous graph convolutional network for bot detection[J]. <br /> 
+  Jun Zhao, Xudong Liu, Qiben Yan, Bo Li, <strong>Minglai Shao</strong>, Hao Peng.<br /> 
+  Information Sciences, 2020. (CCF B, SCI 1区)
+  </li>
+    <li>
+     Tree decomposition based anomalous connected subgraph scanning for detecting and forecasting events in attributed social media networks[J]. <br /> 
+     <strong>Minglai Shao</strong>, Peiyuan Sun, Jianxin Li, Qiben Yan, Zhirui Feng. <br /> 
+    Neurocomputing, 2020.
+  </li>
+    <li>
+      TIMiner: Automatically extracting and analyzing categorized cyber threat intelligence from social data[J].<br /> 
+       Jun Zhao, Qiben Yan, Jianxin Li, <strong>Minglai Shao</strong>, Zuti He, Bo Li. <br /> 
+      Computers & Security, 2020, 95: 101867. (CCF B)
+  </li>
+    <li>
+      An efficient framework for detecting evolving anomalous subgraphs in dynamic networks[C]<br /> 
+      <strong>Minglai Shao</strong>, Jianxin Li, Feng Chen, Xunxun Chen. <br /> 
+      IEEE INFOCOM 2018-IEEE Conference on Computer Communications (**INFOCOM**), 2018 (CCF A)
+  </li>
+    <li>
+     An efficient approach to event detection and forecasting in dynamic multivariate social media networks[C]<br /> 
+      <strong>Minglai Shao</strong>, Jianxin Li, Feng Chen, Hongyi Huang, Shuai Zhang, Xunxun Chen. <br /> 
+      Proceedings of the 26th International Conference on World Wide Web(**WWW**), 2017 (CCF A)
+  </li>
+    <li>
+      Stacked kernel network[J]. <br /> 
+      Shuai Zhang, Jianxin Li, Pengtao Xie, Yingchun Zhang, <strong>Minglai Shao</strong>, Haoyi Zhou, Mengyi Yan. <br /> 
+      arXiv preprint arXiv:1711.09219, 2017.
+  </li>
+    <li>
+    Clustering Algorithm Combined Granular Computing, Ant Colony Algorithm and Fuzzy Idea. <br /> 
+      <strong>Minglai Shao</strong>, Liangxi Qin. <br /> 
+      Computer Technology and Development. 2015.
+  </li>
+    <li>
+      Text similarity computing based on LDA topic model and word co-occurrence[C]<br /> 
+      <strong>Minglai Shao</strong>, Liangxi Qin. <br /> 
+      Proceedings of the 2nd International Conference on Software Engineering, Knowledge Engineering and Information Engineering (SEKEIE 2014)
+  </li>
+</ul>
 
-- Jun Zhao, Xudong Liu, Qiben Yan, Bo Li, **Minglai Shao**, Hao Peng.Multi-attributed heterogeneous graph convolutional network for bot detection[J]. Information Sciences, 2020. (CCF B, SCI 1区)
-- **Minglai Shao**, Peiyuan Sun, Jianxin Li, Qiben Yan, Zhirui Feng. Tree decomposition based anomalous connected subgraph scanning for detecting and forecasting events in attributed social media networks[J]. Neurocomputing, 2020.
-- Jun Zhao, Qiben Yan, Jianxin Li, **Minglai Shao**, Zuti He, Bo Li. TIMiner: Automatically extracting and analyzing categorized cyber threat intelligence from social data[J]. Computers & Security, 2020, 95: 101867. (CCF B)
-- **Minglai Shao**, Jianxin Li, Feng Chen, Xunxun Chen. An efficient framework for detecting evolving anomalous subgraphs in dynamic networks[C]//IEEE INFOCOM 2018-IEEE Conference on Computer Communications (**INFOCOM**), 2018 (CCF A)
-- **Minglai Shao**, Jianxin Li, Feng Chen, Hongyi Huang, Shuai Zhang, Xunxun Chen. An efficient approach to event detection and forecasting in dynamic multivariate social media networks[C]//Proceedings of the 26th International Conference on World Wide Web(**WWW**), 2017 (CCF A)
-- Shuai Zhang, Jianxin Li, Pengtao Xie, Yingchun Zhang, **Minglai Shao**, Haoyi Zhou, Mengyi Yan. Stacked kernel network[J]. arXiv preprint arXiv:1711.09219, 2017.
-- **Minglai Shao**, Liangxi Qin. Clustering Algorithm Combined Granular Computing, Ant Colony Algorithm and Fuzzy Idea. Computer Technology and Development. 2015.
-- **Minglai Shao**, Liangxi Qin. Text similarity computing based on LDA topic model and word co-occurrence[C]//Proceedings of the 2nd International Conference on Software Engineering, Knowledge Engineering and Information Engineering (SEKEIE 2014).
 
 
 ### <b>Awards/Honors</b>
