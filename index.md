@@ -41,11 +41,12 @@ Minglai Shao received his doctoral degree in School of Computer Science and Engi
 ### <b>Publications</b>
 <ul>
  <li>
-   An Efficient Framework for Detecting Evolving Anomalous Subgraphs in Dynamic Networks<br /> Minglai Shao, Jianxin Li, Feng Chen, and Xunxun Chen <br /> Proceedings of the IEEE International Conference on Computer Communications (<strong>INFOCOM'18</strong>), 2018. (Regular paper)
+   An Efficient Framework for Detecting Evolving Anomalous Subgraphs in Dynamic Networks<br /> Minglai Shao, Jianxin Li, Feng Chen, and Xunxun Chen <br /> Proceedings of 
+   the IEEE International Conference on Computer Communications (<strong>INFOCOM'18</strong>), 2018. (Regular paper)
  </li>
   <li> 
     Motif-level Anomaly Detection in Dynamic Graphs[J]<br /> 
-    Yuan Z, **Shao,  M.***, Yan Q. <br /> 
+    Yuan Z, <strong>Shao,  M.*</strong>, Yan Q. <br /> 
     IEEE Transactions on Information Forensics and Security (TIFS), 2023.(CCF A, SCI 1区)
   </li>
 </li>
