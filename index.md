@@ -86,7 +86,7 @@ Minglai Shao received his doctoral degree in School of Computer Science and Engi
     </li> 
     <li>
      Learning Graph Deep Autoencoder for Anomaly Detection in Multi-attributed Networks.  <br /> 
-      <strong>Minglai Shao</strong>, Yujie Lin, et al,  <br /> 
+      <strong>Minglai Shao</strong>, Yujie Lin, Qiyao Peng, Wenjun Wang,  Yueheng Sun <br /> 
       Knowledge-Based Systems, 2022. (SCI 1区)
     </li> 
     <li>
