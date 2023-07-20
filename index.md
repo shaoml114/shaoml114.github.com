@@ -40,14 +40,10 @@ Minglai Shao received his doctoral degree in School of Computer Science and Engi
 
 ### <b>Publications</b>
 <ul>
- <li>
-   An Efficient Framework for Detecting Evolving Anomalous Subgraphs in Dynamic Networks<br /> Minglai Shao, Jianxin Li, Feng Chen, and Xunxun Chen <br /> Proceedings of 
-   the IEEE International Conference on Computer Communications (<strong>INFOCOM'18</strong>), 2018. (Regular paper)
- </li>
   <li> 
     Motif-level Anomaly Detection in Dynamic Graphs[J]<br /> 
     Yuan Z, <strong>Shao,  M.*</strong>, Yan Q. <br /> 
-    IEEE Transactions on Information Forensics and Security (TIFS), 2023.(CCF A, SCI 1区)
+    IEEE Transactions on Information Forensics and Security (<strong>TIFS</strong>), 2023.(CCF A, SCI 1区)
   </li>
   <li> 
      Multi-view Change Point Detection in Dynamic Networks[J]<br /> 
@@ -86,7 +82,7 @@ Minglai Shao received his doctoral degree in School of Computer Science and Engi
     <li>
       Towards a Multi-view Attentive Matching for Personalized Expert Finding [C]. <br /> 
       Qiyao Peng, Hongtao Liu, Yinghui Wang, Hongyan Xu, Pengfei Jiao, <strong>Minglai Shao*</strong>, Wenjun Wang.   <br /> 
-      Proceedings of the ACM Web Conference (**WWW**), 2022 (CCF-A) 
+      Proceedings of the ACM Web Conference (<strong>WWW</strong>), 2022 (CCF-A) 
     </li> 
     <li>
      Learning Graph Deep Autoencoder for Anomaly Detection in Multi-attributed Networks.  <br /> 
@@ -135,7 +131,7 @@ Minglai Shao received his doctoral degree in School of Computer Science and Engi
     </li> 
     <li> 
      Expertise-oriented Explainable Question Routing <br /> 
-      Yulu Li, Qiyao Peng, Hongtao Liu, <strong>Minglai Shao*</strong> , Pengfei Jiao, and Wenjun Wang. <br /> 
+      Yulu Li, Qiyao Peng, Hongtao Liu, <strong> Minglai Shao*</strong> , Pengfei Jiao, and Wenjun Wang. <br /> 
       EAI CollaborateCom 2022. 
     </li> 
    <li> 
@@ -150,7 +146,7 @@ Minglai Shao received his doctoral degree in School of Computer Science and Engi
   <li>
    Structured sparsity model based trajectory tracking using private location data release[J]<br /> 
    <strong>Minglai Shao</strong>, Jianxin Li, Qiben Yan, Feng Chen, Hongyi Huang, Xunxun Chen<br /> 
-    IEEE Transactions on Dependable and Secure Computing (**TDSC**), 2021 (CCF A, SCI 1区)
+    IEEE Transactions on Dependable and Secure Computing (<strong>TDSC</strong>), 2021 (CCF A, SCI 1区)
   </li>
     <li>
     MASA: An efficient framework for anomaly detection in multi-attributed networks[J]<br /> 
@@ -199,12 +195,12 @@ Minglai Shao received his doctoral degree in School of Computer Science and Engi
     <li>
       An efficient framework for detecting evolving anomalous subgraphs in dynamic networks[C]<br /> 
       <strong>Minglai Shao</strong>, Jianxin Li, Feng Chen, Xunxun Chen. <br /> 
-      IEEE INFOCOM 2018-IEEE Conference on Computer Communications (**INFOCOM**), 2018 (CCF A)
+      IEEE INFOCOM 2018-IEEE Conference on Computer Communications (<strong>INFOCOM</strong>), 2018 (CCF A)
   </li>
     <li>
      An efficient approach to event detection and forecasting in dynamic multivariate social media networks[C]<br /> 
       <strong>Minglai Shao</strong>, Jianxin Li, Feng Chen, Hongyi Huang, Shuai Zhang, Xunxun Chen. <br /> 
-      Proceedings of the 26th International Conference on World Wide Web(**WWW**), 2017 (CCF A)
+      Proceedings of the 26th International Conference on World Wide Web(<strong>WWW</strong>), 2017 (CCF A)
   </li>
     <li>
       Stacked kernel network[J]. <br /> 
