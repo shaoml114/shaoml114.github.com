@@ -76,7 +76,7 @@ Minglai Shao received his doctoral degree in School of Computer Science and Engi
     </li> 
     <li> 
     Deep Cross-Network Alignment with Anchor Node Pair Diverse Local Structure[J]. <br /> 
-    Wang Y, Wang W, <strong>Minglai Shao* </strong>, et al. <br /> 
+    Wang Y, Wang W, <strong>Minglai Shao</strong>, et al. <br /> 
     Algorithms, 2023, 16(5): 234. 
     </li> 
 </ul>
