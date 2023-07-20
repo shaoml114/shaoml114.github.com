@@ -49,10 +49,14 @@ Minglai Shao received his doctoral degree in School of Computer Science and Engi
     Yuan Z, <strong>Shao,  M.*</strong>, Yan Q. <br /> 
     IEEE Transactions on Information Forensics and Security (TIFS), 2023.(CCF A, SCI 1区)
   </li>
-</li>
+  <li> 
+     Multi-view Change Point Detection in Dynamic Networks[J]<br /> 
+     Yingjie Xie, Wenjun Wang, **Minglai Shao***, Tianpeng Li, Yandong Yu<br /> 
+     Information Sciences, 2023. (CCF B, SCI 1区)
+  </li>
 </ul>
 - 
-- Yingjie Xie, Wenjun Wang, **Minglai Shao***, Tianpeng Li, Yandong Yu, Multi-view Change Point Detection in Dynamic Networks[J], Information Sciences, 2023. (CCF B, SCI 1区)
+- 
 - Yuan Z, **Shao,  M.***, Yan Q. Motif-level Anomaly Detection in Dynamic Graphs[J]. IEEE Transactions on Information Forensics and Security (TIFS), 2023.(CCF A, SCI 1区)
 - L. Li, Y. Sun, T. Li , and **M. Shao***. Robust Few-shot Graph Anomaly Detection via Graph Coarsening. The 16th International Conference on Knowledge Science, Engineering and Management.
 - J. Zhang, W. Wang, T. Li ,  **M. Shao***, et al. Joint Community and Structural Hole Spanner Detection via Graph Contrastive Learning. The 16th International Conference on Knowledge Science, Engineering and Management.
