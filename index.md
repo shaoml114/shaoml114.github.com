@@ -76,6 +76,11 @@ Minglai Shao received his doctoral degree in School of Computer Science and Engi
      KDD workshop on Ethical Artificial Intelligence: Methods and Applications (KDD-EAI), 2023
     </li> 
     <li> 
+      Detecting Multi-Label Out-of-Distribution Nodes on Graphs <br /> 
+      X. Zhao, C. Zhao, <strong>Minglai Shao*</strong> <br /> 
+      Thirty-Seventh AAAI Conference on Artificial Intelligence Workshops 2023.
+    </li> 
+    <li> 
     Deep Cross-Network Alignment with Anchor Node Pair Diverse Local Structure[J]. <br /> 
     Wang Y, Wang W, <strong>Minglai Shao</strong>, et al. <br /> 
     Algorithms, 2023, 16(5): 234. 
@@ -123,11 +128,6 @@ Minglai Shao received his doctoral degree in School of Computer Science and Engi
       Role-Oriented Dynamic Network Embedding. <br /> 
        Ting Pan, Wenjun Wang, <strong>Minglai Shao*</strong>, Yueheng Sun, and Pengfei Jiao.  <br /> 
        2022 IEEE International Conference on Big Data.
-    </li> 
-    <li> 
-      etecting Multi-Label Out-of-Distribution Nodes on Graphs <br /> 
-      X. Zhao, C. Zhao, <strong>Minglai Shao*</strong> <br /> 
-      Thirty-Seventh AAAI Conference on Artificial Intelligence Workshops 2023.
     </li> 
     <li> 
      Expertise-oriented Explainable Question Routing <br /> 
