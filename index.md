@@ -51,18 +51,36 @@ Minglai Shao received his doctoral degree in School of Computer Science and Engi
   </li>
   <li> 
      Multi-view Change Point Detection in Dynamic Networks[J]<br /> 
-     Yingjie Xie, Wenjun Wang, **Minglai Shao***, Tianpeng Li, Yandong Yu<br /> 
+     Yingjie Xie, Wenjun Wang, <strong>Minglai Shao* </strong>, Tianpeng Li, Yandong Yu<br /> 
      Information Sciences, 2023. (CCF B, SCI 1区)
   </li>
+   <li> 
+     Robust Few-shot Graph Anomaly Detection via Graph Coarsening. <br /> 
+     L. Li, Y. Sun, T. Li , and <strong>Minglai Shao* </strong>. <br /> 
+     The 16th International Conference on Knowledge Science, Engineering and Management.
+    </li> 
+    <li> 
+      Joint Community and Structural Hole Spanner Detection via Graph Contrastive Learning. <br /> 
+      J. Zhang, W. Wang, T. Li ,  <strong>Minglai Shao* </strong>, et al. <br /> 
+      The 16th International Conference on Knowledge Science, Engineering and Management.
+    </li> 
+    <li> 
+      Learning Fair and Domain Generalization Representation. <br /> 
+      C. Zhao, <strong>Minglai Shao* </strong>, X. Zhao,<br /> 
+      KDD workshop on Ethical Artificial Intelligence: Methods and Applications (KDD-EAI), 2023
+    </li> 
+    <li> 
+     Adaptation Speed of Causal Models Concerning Fairness. <br /> 
+      Y. Lin,  C. Zhao,  <strong>Minglai Shao* </strong>, X. Zhao, H. Chen. <br /> 
+     KDD workshop on Ethical Artificial Intelligence: Methods and Applications (KDD-EAI), 2023
+    </li> 
+    <li> 
+    Deep Cross-Network Alignment with Anchor Node Pair Diverse Local Structure[J]. <br /> 
+    Wang Y, Wang W, <strong>Minglai Shao* </strong>, et al. <br /> 
+    Algorithms, 2023, 16(5): 234. 
+    </li> 
 </ul>
-- 
-- 
-- Yuan Z, **Shao,  M.***, Yan Q. Motif-level Anomaly Detection in Dynamic Graphs[J]. IEEE Transactions on Information Forensics and Security (TIFS), 2023.(CCF A, SCI 1区)
-- L. Li, Y. Sun, T. Li , and **M. Shao***. Robust Few-shot Graph Anomaly Detection via Graph Coarsening. The 16th International Conference on Knowledge Science, Engineering and Management.
-- J. Zhang, W. Wang, T. Li ,  **M. Shao***, et al. Joint Community and Structural Hole Spanner Detection via Graph Contrastive Learning. The 16th International Conference on Knowledge Science, Engineering and Management.
-- C. Zhao, **M. Shao***, X. Zhao, Learning Fair and Domain Generalization Representation. KDD workshop on Ethical Artificial Intelligence: Methods and Applications (KDD-EAI), 2023
-- Y. Lin,  C. Zhao,  **M. Shao***, X. Zhao, H. Chen. Adaptation Speed of Causal Models Concerning Fairness. KDD workshop on Ethical Artificial Intelligence: Methods and Applications (KDD-EAI), 2023
-- Wang Y, Wang W, **Shao M**, et al. Deep Cross-Network Alignment with Anchor Node Pair Diverse Local Structure[J]. Algorithms, 2023, 16(5): 234. 
+
 
 
 - Qiyao Peng, Hongtao Liu, Yinghui Wang, Hongyan Xu, Pengfei Jiao, **Minglai Shao***, Wenjun Wang. Towards a Multi-view Attentive Matching for Personalized Expert Finding [C]. Proceedings of the ACM Web Conference (**WWW**), 2022 (CCF-A) 
