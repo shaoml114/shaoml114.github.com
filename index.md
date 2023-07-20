@@ -55,6 +55,11 @@ Minglai Shao received his doctoral degree in School of Computer Science and Engi
      L. Li, Y. Sun, T. Li , and <strong>Minglai Shao* </strong>. <br /> 
      The 16th International Conference on Knowledge Science, Engineering and Management.
     </li> 
+      <li>
+     Learning Graph Deep Autoencoder for Anomaly Detection in Multi-attributed Networks.  <br /> 
+      <strong>Minglai Shao</strong>, Yujie Lin, Qiyao Peng, Wenjun Wang,  Yueheng Sun <br /> 
+      Knowledge-Based Systems, 2022. (SCI 1区)
+    </li> 
     <li> 
       Joint Community and Structural Hole Spanner Detection via Graph Contrastive Learning. <br /> 
       J. Zhang, W. Wang, T. Li ,  <strong>Minglai Shao* </strong>, et al. <br /> 
@@ -83,11 +88,6 @@ Minglai Shao received his doctoral degree in School of Computer Science and Engi
       Towards a Multi-view Attentive Matching for Personalized Expert Finding [C]. <br /> 
       Qiyao Peng, Hongtao Liu, Yinghui Wang, Hongyan Xu, Pengfei Jiao, <strong>Minglai Shao*</strong>, Wenjun Wang.   <br /> 
       Proceedings of the ACM Web Conference (<strong>WWW</strong>), 2022 (CCF-A) 
-    </li> 
-    <li>
-     Learning Graph Deep Autoencoder for Anomaly Detection in Multi-attributed Networks.  <br /> 
-      <strong>Minglai Shao</strong>, Yujie Lin, Qiyao Peng, Wenjun Wang,  Yueheng Sun <br /> 
-      Knowledge-Based Systems, 2022. (SCI 1区)
     </li> 
     <li>
       IISD: Integrated interaction subgraph detection for event mining[J]<br /> 
