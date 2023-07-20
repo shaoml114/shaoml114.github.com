@@ -41,12 +41,16 @@ Minglai Shao received his doctoral degree in School of Computer Science and Engi
 ### <b>Publications</b>
 <ul>
  <li>
-<li>An Efficient Framework for Detecting Evolving Anomalous Subgraphs in Dynamic Networks<br /> Minglai Shao, Jianxin Li, Feng Chen, and Xunxun Chen <br /> Proceedings of the IEEE International Conference on Computer Communications (<strong>INFOCOM'18</strong>), 2018. (Regular paper)</li>
+   An Efficient Framework for Detecting Evolving Anomalous Subgraphs in Dynamic Networks<br /> Minglai Shao, Jianxin Li, Feng Chen, and Xunxun Chen <br /> Proceedings of the IEEE International Conference on Computer Communications (<strong>INFOCOM'18</strong>), 2018. (Regular paper)
+ </li>
+  <li> 
+    Motif-level Anomaly Detection in Dynamic Graphs[J]<br /> 
+    Yuan Z, **Shao,  M.***, Yan Q. <br /> 
+    IEEE Transactions on Information Forensics and Security (TIFS), 2023.(CCF A, SCI 1区)
+  </li>
 </li>
-
-- Motif-level Anomaly Detection in Dynamic Graphs[J]
-  Yuan Z, **Shao,  M.***, Yan Q. 
-  IEEE Transactions on Information Forensics and Security (TIFS), 2023.(CCF A, SCI 1区)
+</ul>
+- 
 - Yingjie Xie, Wenjun Wang, **Minglai Shao***, Tianpeng Li, Yandong Yu, Multi-view Change Point Detection in Dynamic Networks[J], Information Sciences, 2023. (CCF B, SCI 1区)
 - Yuan Z, **Shao,  M.***, Yan Q. Motif-level Anomaly Detection in Dynamic Graphs[J]. IEEE Transactions on Information Forensics and Security (TIFS), 2023.(CCF A, SCI 1区)
 - L. Li, Y. Sun, T. Li , and **M. Shao***. Robust Few-shot Graph Anomaly Detection via Graph Coarsening. The 16th International Conference on Knowledge Science, Engineering and Management.
