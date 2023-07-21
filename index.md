@@ -35,7 +35,7 @@ Minglai Shao received his doctoral degree in School of Computer Science and Engi
 
 
 ### <b>Academic Activities</b>
-- PC：WWW, IJCAI, KDD, AAAI, WSDM, ECAI, etc
+- PC：WWW, IJCAI, KDD, AAAI, WSDM, ECAI, etc.
 - Reviewer: WWW, IJCAI, TDSC, TIFS, TKDE, ICDM, WSDM, KDD, AAAI, TNNLS, etc.
 
 ### <b>Publications</b>
