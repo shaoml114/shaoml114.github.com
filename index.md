@@ -53,7 +53,7 @@ Minglai Shao received his doctoral degree in School of Computer Science and Engi
    <li> 
      Robust Few-shot Graph Anomaly Detection via Graph Coarsening. <br /> 
      L. Li, Y. Sun, T. Li , and <strong>Minglai Shao* </strong>. <br /> 
-     The 16th International Conference on Knowledge Science, Engineering and Management.
+     The 16th International Conference on Knowledge Science, Engineering and Management, 2023.
     </li> 
       <li>
      Learning Graph Deep Autoencoder for Anomaly Detection in Multi-attributed Networks.  <br /> 
@@ -63,7 +63,7 @@ Minglai Shao received his doctoral degree in School of Computer Science and Engi
     <li> 
       Joint Community and Structural Hole Spanner Detection via Graph Contrastive Learning. <br /> 
       J. Zhang, W. Wang, T. Li ,  <strong>Minglai Shao* </strong>, et al. <br /> 
-      The 16th International Conference on Knowledge Science, Engineering and Management.
+      The 16th International Conference on Knowledge Science, Engineering and Management, 2023.
     </li> 
     <li> 
       Learning Fair and Domain Generalization Representation. <br /> 
