@@ -50,6 +50,11 @@ Minglai Shao received his doctoral degree in School of Computer Science and Engi
      Yingjie Xie, Wenjun Wang, <strong>Minglai Shao* </strong>, Tianpeng Li, Yandong Yu<br /> 
      Information Sciences, 2023. (CCF B, SCI 1区)
   </li>
+  <li>
+    Heterogeneous Network Representation Learning Based on Role Feature Extraction
+    Y. Sun, M. Jia, C, Liu, <strong>Minglai Shao* </strong>
+    Pattern Recognition, (CCF B, SCI 1区)
+  </li>
    <li> 
      Robust Few-shot Graph Anomaly Detection via Graph Coarsening. <br /> 
      L. Li, Y. Sun, T. Li , and <strong>Minglai Shao* </strong>. <br /> 
