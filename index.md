@@ -53,7 +53,7 @@ Minglai Shao received his doctoral degree in School of Computer Science and Engi
   <li>
     Heterogeneous Network Representation Learning Based on Role Feature Extraction
     Y. Sun, M. Jia, C, Liu, <strong>Minglai Shao* </strong>
-    Pattern Recognition, (CCF B, SCI 1区)
+    Pattern Recognition, 2023. (CCF B, SCI 1区)
   </li>
    <li> 
      Robust Few-shot Graph Anomaly Detection via Graph Coarsening. <br /> 
