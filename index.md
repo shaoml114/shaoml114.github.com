@@ -68,7 +68,7 @@ Minglai Shao received his doctoral degree in School of Computer Science and Engi
     <li>
     Contrastive Representation Learning Based on Multiple Node-centered Subgraphs.<br /> 
     D., W. Wang, <strong>Minglai Shao* </strong>, C. Zhao.<br /> 
-    In Proceedings of the ACM International Conference on Information and Knowledge Management (full paper, oral), 2023 (CCF B)
+    In Proceedings of the ACM International Conference on Information and Knowledge Management (full paper, oral), 2023 (CCF B) 
     </li>
     <li>
      Multi-Order Relations Hyperbolic Fusion for Heterogeneous Graphs.<br /> 
