@@ -53,7 +53,7 @@ Minglai Shao received his doctoral degree in School of Computer Science and Engi
    <li> 
      Robust Few-shot Graph Anomaly Detection via Graph Coarsening. <br /> 
      L. Li, Y. Sun, T. Li , and <strong>Minglai Shao* </strong>. <br /> 
-     The 16th International Conference on Knowledge Science, Engineering and Management, 2023.
+     The 16th International Conference on Knowledge Science, Engineering and Management, 2023. 
     </li> 
     <li>
     Heterogeneous Network Representation Learning Based on Role Feature Extraction<br /> 
