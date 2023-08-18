@@ -31,7 +31,7 @@ If you are interested in the position, please send your application to Prof. Sha
 
 ### <b>Eduction Experience</b>
 
-Minglai Shao received his doctoral degree in School of Computer Science and Engineering from Beihang University, under the supervision of Prof. [Jianxin Li](https://scse.buaa.edu.cn/info/1354/9245.htm).  He was a visiting scholar in the State University of New York.
+Minglai Shao received his doctoral degree in the School of Computer Science and Engineering from Beihang University, under the supervision of Prof. [Jianxin Li](https://scse.buaa.edu.cn/info/1354/9245.htm).  He was a visiting scholar in the State University of New York.
 
 
 ### <b>Academic Activities</b>
