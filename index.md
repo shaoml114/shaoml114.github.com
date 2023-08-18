@@ -59,8 +59,23 @@ Minglai Shao received his doctoral degree in School of Computer Science and Engi
     Heterogeneous Network Representation Learning Based on Role Feature Extraction<br /> 
     Y. Sun, M. Jia, C, Liu, <strong>Minglai Shao* </strong><br /> 
     Pattern Recognition, 2023. (CCF B, SCI 1区)
-  </li>
-      <li>
+    </li>
+    <li>
+    Adaptation Speed Analysis for Fairness-aware Causal Models. <br /> 
+    Y. Lin, C. Zhao, <strong>Minglai Shao* </strong>, X. Zhao and H. Chen. <br /> 
+    In Proceedings of the ACM International Conference on Information and Knowledge Management (full paper, oral), 2023 (CCF B)
+    </li>
+    <li>
+    Contrastive Representation Learning Based on Multiple Node-centered Subgraphs.<br /> 
+    D., W. Wang, <strong>Minglai Shao* </strong>, C. Zhao.<br /> 
+    In Proceedings of the ACM International Conference on Information and Knowledge Management (full paper, oral), 2023 (CCF B)
+    </li>
+    <li>
+     Multi-Order Relations Hyperbolic Fusion for Heterogeneous Graphs.<br /> 
+     J. Li, Y. Sun, <strong>Minglai Shao* </strong>. <br /> 
+     In Proceedings of the ACM International Conference on Information and Knowledge Management (full paper, oral), 2023 (CCF B)
+    </li>
+    <li>
      Learning Graph Deep Autoencoder for Anomaly Detection in Multi-attributed Networks.  <br /> 
       <strong>Minglai Shao</strong>, Yujie Lin, Qiyao Peng, Wenjun Wang,  Yueheng Sun <br /> 
       Knowledge-Based Systems, 2023. (SCI 1区)
