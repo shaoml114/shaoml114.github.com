@@ -157,8 +157,8 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
       EAI CollaborateCom 2022. 
     </li> 
    <li> 
-     Geometry Interaction Network Alignment.
-     Yinghui Wang, Wenjun Wang, Zixu Zhen, Qiyao Peng, Pengfei Jiao, Wei Liang,  <strong>Minglai Shao</strong>, Yueheng Sun.
+     Geometry Interaction Network Alignment.  <br /> 
+     Yinghui Wang, Wenjun Wang, Zixu Zhen, Qiyao Peng, Pengfei Jiao, Wei Liang,  <strong>Minglai Shao</strong>, Yueheng Sun.  <br /> 
      Neurocomputing, 2022.
    </li>
 </ul>
