@@ -49,12 +49,12 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
   </li>
   <li> 
      Multi-view Change Point Detection in Dynamic Networks[J]<br /> 
-     Yingjie Xie, Wenjun Wang, <strong>Minglai Shao* </strong>, Tianpeng Li, Yandong Yu<br /> 
+     Y. Xie, W. Wang, <strong>Minglai Shao* </strong>, T. Li, Y. Yu<br /> 
      Information Sciences, 2023. (CCF B, SCI 1区)
   </li>
    <li> 
      Robust Few-shot Graph Anomaly Detection via Graph Coarsening. <br /> 
-     L. Li, Y. Sun, T. Li , and <strong>Minglai Shao* </strong>. <br /> 
+     L. Li, Y. Sun, T. Li, and <strong>Minglai Shao* </strong>. <br /> 
      The 16th International Conference on Knowledge Science, Engineering and Management, 2023. 
     </li> 
     <li>
@@ -104,7 +104,7 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
     </li> 
     <li> 
     Deep Cross-Network Alignment with Anchor Node Pair Diverse Local Structure[J]. <br /> 
-    Wang Y, Wang W, <strong>Minglai Shao</strong>, et al. <br /> 
+    Y. Wang, W. Wang, <strong>Minglai Shao</strong>, et al. <br /> 
     Algorithms, 2023, 16(5): 234. 
     </li> 
 </ul>
