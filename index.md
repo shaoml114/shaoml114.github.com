@@ -90,17 +90,17 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
     <li> 
       Learning Fair and Domain Generalization Representation. <br /> 
       C. Zhao, <strong>Minglai Shao* </strong>, X. Zhao,<br /> 
-      KDD workshop on Ethical Artificial Intelligence: Methods and Applications (KDD-EAI), 2023
+      KDD workshop on Ethical Artificial Intelligence: Methods and Applications (KDD-EAI), 2023. (CCF A-W)
     </li> 
     <li> 
      Adaptation Speed of Causal Models Concerning Fairness. <br /> 
       Y. Lin,  C. Zhao,  <strong>Minglai Shao* </strong>, X. Zhao, H. Chen. <br /> 
-     KDD workshop on Ethical Artificial Intelligence: Methods and Applications (KDD-EAI), 2023
+     KDD workshop on Ethical Artificial Intelligence: Methods and Applications (KDD-EAI), 2023. (CCF A-W)
     </li> 
     <li> 
       Detecting Multi-Label Out-of-Distribution Nodes on Graphs <br /> 
       X. Zhao, C. Zhao, <strong>Minglai Shao*</strong> <br /> 
-      Thirty-Seventh AAAI Conference on Artificial Intelligence Workshops 2023.
+      Thirty-Seventh AAAI Conference on Artificial Intelligence Workshops 2023. (CCF A-W)
     </li> 
     <li> 
     Deep Cross-Network Alignment with Anchor Node Pair Diverse Local Structure[J]. <br /> 
