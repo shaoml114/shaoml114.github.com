@@ -45,75 +45,85 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
 
 <strong>2023</strong>
 <ul>
+  <p style="line-height:1.5em;">
   <li> 
-    <p style="line-height:1.5em;">
     Motif-level Anomaly Detection in Dynamic Graphs[J]<br /> 
     Z. Yuan, <strong> Minglai Shao* </strong>,  Q. Yan <br /> 
     IEEE Transactions on Information Forensics and Security (<strong>TIFS</strong>), 2023.(CCF A, SCI 1区)
-    </p>
   </li>  
-  
+    
   <li> 
      Multi-view Change Point Detection in Dynamic Networks[J]<br /> 
      Y. Xie, W. Wang, <strong>Minglai Shao* </strong>, T. Li, Y. Yu<br /> 
      Information Sciences, 2023. (CCF B, SCI 1区)
   </li>  
-  
+    
   <li>
     Heterogeneous Network Representation Learning Based on Role Feature Extraction<br /> 
     Y. Sun, M. Jia, C, Liu, <strong>Minglai Shao* </strong><br /> 
     Pattern Recognition, 2023. (CCF B, SCI 1区)
     </li>
+    
     <li>
     Contrastive Representation Learning Based on Multiple Node-centered Subgraphs.<br /> 
     D. Li, W. Wang, <strong>Minglai Shao* </strong>, C. Zhao.<br /> 
     In Proceedings of the ACM International Conference on Information and Knowledge Management (full paper, oral), 2023 (CCF B) 
     </li>
+    
     <li>
      Multi-Order Relations Hyperbolic Fusion for Heterogeneous Graphs.<br /> 
      J. Li, Y. Sun, <strong>Minglai Shao* </strong>. <br /> 
      In Proceedings of the ACM International Conference on Information and Knowledge Management (full paper, oral), 2023 (CCF B)
     </li>
+    
    <li>
     Adaptation Speed Analysis for Fairness-aware Causal Models. <br /> 
     Y. Lin, C. Zhao, <strong>Minglai Shao* </strong>, X. Zhao and H. Chen. <br /> 
     In Proceedings of the ACM International Conference on Information and Knowledge Management (full paper, oral), 2023 (CCF B)
     </li>
+    
     <li>
      Learning Graph Deep Autoencoder for Anomaly Detection in Multi-attributed Networks.  <br /> 
       <strong>Minglai Shao</strong>, Y. Lin, Q. Peng, W.,  Y. Sun <br /> 
       Knowledge-Based Systems, 2023. (SCI 1区)
     </li> 
+    
      <li> 
      Robust Few-shot Graph Anomaly Detection via Graph Coarsening. <br /> 
      L. Li, Y. Sun, T. Li, and <strong>Minglai Shao* </strong>. <br /> 
      The 16th International Conference on Knowledge Science, Engineering and Management, 2023. 
     </li> 
+    
     <li> 
       Joint Community and Structural Hole Spanner Detection via Graph Contrastive Learning. <br /> 
       J. Zhang, W. Wang, T. Li ,  <strong>Minglai Shao* </strong>, et al. <br /> 
       The 16th International Conference on Knowledge Science, Engineering and Management, 2023.
     </li> 
+    
     <li> 
       Learning Fair and Domain Generalization Representation. <br /> 
       C. Zhao, <strong>Minglai Shao* </strong>, X. Zhao,<br /> 
       KDD workshop on Ethical Artificial Intelligence: Methods and Applications (KDD-EAI), 2023. (CCF A-W)
     </li> 
+    
     <li> 
      Adaptation Speed of Causal Models Concerning Fairness. <br /> 
       Y. Lin,  C. Zhao,  <strong>Minglai Shao* </strong>, X. Zhao, H. Chen. <br /> 
      KDD workshop on Ethical Artificial Intelligence: Methods and Applications (KDD-EAI), 2023. (CCF A-W)
     </li> 
+    
     <li> 
       Detecting Multi-Label Out-of-Distribution Nodes on Graphs <br /> 
       X. Zhao, C. Zhao, <strong>Minglai Shao*</strong> <br /> 
       Thirty-Seventh AAAI Conference on Artificial Intelligence Workshops 2023. (CCF A-W)
     </li> 
+    
     <li> 
     Deep Cross-Network Alignment with Anchor Node Pair Diverse Local Structure[J]. <br /> 
     Y. Wang, W. Wang, <strong>Minglai Shao</strong>, et al. <br /> 
     Algorithms, 2023, 16(5): 234. 
     </li> 
+   </p>
 </ul>
 
 <strong> Prior to 2023 </strong>
