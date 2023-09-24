@@ -50,21 +50,19 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
     Z. Yuan, <strong> Minglai Shao* </strong>,  Q. Yan <br /> 
     IEEE Transactions on Information Forensics and Security (<strong>TIFS</strong>), 2023.(CCF A, SCI 1区)
   </li>
+  
   <li> 
      Multi-view Change Point Detection in Dynamic Networks[J]<br /> 
      Y. Xie, W. Wang, <strong>Minglai Shao* </strong>, T. Li, Y. Yu<br /> 
      Information Sciences, 2023. (CCF B, SCI 1区)
   </li>
-   <li> 
-     Robust Few-shot Graph Anomaly Detection via Graph Coarsening. <br /> 
-     L. Li, Y. Sun, T. Li, and <strong>Minglai Shao* </strong>. <br /> 
-     The 16th International Conference on Knowledge Science, Engineering and Management, 2023. 
-    </li> 
+  
     <li>
     Heterogeneous Network Representation Learning Based on Role Feature Extraction<br /> 
     Y. Sun, M. Jia, C, Liu, <strong>Minglai Shao* </strong><br /> 
     Pattern Recognition, 2023. (CCF B, SCI 1区)
     </li>
+    
     <li>
     Contrastive Representation Learning Based on Multiple Node-centered Subgraphs.<br /> 
     D. Li, W. Wang, <strong>Minglai Shao* </strong>, C. Zhao.<br /> 
@@ -84,6 +82,11 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
      Learning Graph Deep Autoencoder for Anomaly Detection in Multi-attributed Networks.  <br /> 
       <strong>Minglai Shao</strong>, Y. Lin, Q. Peng, W.,  Y. Sun <br /> 
       Knowledge-Based Systems, 2023. (SCI 1区)
+    </li> 
+     <li> 
+     Robust Few-shot Graph Anomaly Detection via Graph Coarsening. <br /> 
+     L. Li, Y. Sun, T. Li, and <strong>Minglai Shao* </strong>. <br /> 
+     The 16th International Conference on Knowledge Science, Engineering and Management, 2023. 
     </li> 
     <li> 
       Joint Community and Structural Hole Spanner Detection via Graph Contrastive Learning. <br /> 
