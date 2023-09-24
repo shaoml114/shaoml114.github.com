@@ -46,7 +46,7 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
 <strong>2023</strong>
 <ul>
   <li> 
-    <p style="line-height:2em;">
+    <p style="line-height:1.5em;">
     Motif-level Anomaly Detection in Dynamic Graphs[J]<br /> 
     Z. Yuan, <strong> Minglai Shao* </strong>,  Q. Yan <br /> 
     IEEE Transactions on Information Forensics and Security (<strong>TIFS</strong>), 2023.(CCF A, SCI 1区)
