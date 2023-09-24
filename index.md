@@ -110,7 +110,7 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
     </li> 
 </ul>
 
-
+<strong> Prior to 2023 </strong>
 <ul>
     <li>
       Towards a Multi-view Attentive Matching for Personalized Expert Finding [C]. <br /> 
