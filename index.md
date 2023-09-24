@@ -39,7 +39,7 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
 - PC：WWW, IJCAI, KDD, AAAI, WSDM, ECAI, etc.
 - Reviewer: WWW, IJCAI, TDSC, TIFS, TKDE, ICDM, WSDM, KDD, AAAI, TNNLS, NIPS, etc.
 
-<p style="line-height:2em;"></p>
+
 
 ### <b>Publications</b>
 
@@ -103,13 +103,13 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
   <li> 
       Learning Fair and Domain Generalization Representation. <br /> 
       C. Zhao, <strong>Minglai Shao* </strong>, X. Zhao,<br /> 
-      KDD workshop on Ethical Artificial Intelligence: Methods and Applications (KDD-EAI), 2023. (CCF A-W)
+      The 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining Workshop on Ethical Artificial Intelligence: Methods and Applications (KDD-EAI), 2023. (CCF A-W)
   </li> 
     
   <li> 
      Adaptation Speed of Causal Models Concerning Fairness. <br /> 
       Y. Lin,  C. Zhao,  <strong>Minglai Shao* </strong>, X. Zhao, H. Chen. <br /> 
-     KDD workshop on Ethical Artificial Intelligence: Methods and Applications (KDD-EAI), 2023. (CCF A-W)
+     The 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining Workshop on Ethical Artificial Intelligence: Methods and Applications (KDD-EAI), 2023. (CCF A-W)
   </li> 
     
   <li> 
