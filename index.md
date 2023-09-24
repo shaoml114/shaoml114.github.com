@@ -19,7 +19,7 @@
 
 ---
 
-<b>We are looking for highly-motivated PhD, master, and undergraduate students to join our group.
+<b>We are looking for highly motivated Ph.D., master, and undergraduate students to join our group.
 If you are interested in the position, please send your application to Prof. Shao. </b>
 
 ---
