@@ -49,20 +49,17 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
     Motif-level Anomaly Detection in Dynamic Graphs[J]<br /> 
     Z. Yuan, <strong> Minglai Shao* </strong>,  Q. Yan <br /> 
     IEEE Transactions on Information Forensics and Security (<strong>TIFS</strong>), 2023.(CCF A, SCI 1区)
-  </li>
-  
+  </li>  
   <li> 
      Multi-view Change Point Detection in Dynamic Networks[J]<br /> 
      Y. Xie, W. Wang, <strong>Minglai Shao* </strong>, T. Li, Y. Yu<br /> 
      Information Sciences, 2023. (CCF B, SCI 1区)
-  </li>
-  
+  </li>  
     <li>
     Heterogeneous Network Representation Learning Based on Role Feature Extraction<br /> 
     Y. Sun, M. Jia, C, Liu, <strong>Minglai Shao* </strong><br /> 
     Pattern Recognition, 2023. (CCF B, SCI 1区)
     </li>
-    
     <li>
     Contrastive Representation Learning Based on Multiple Node-centered Subgraphs.<br /> 
     D. Li, W. Wang, <strong>Minglai Shao* </strong>, C. Zhao.<br /> 
