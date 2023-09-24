@@ -45,7 +45,7 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
 
 <strong>2023</strong>
 <ul>
-  <p style="line-height:1.5em;">
+  <p style="line-height:1.6em;">
   <li> 
     Motif-level Anomaly Detection in Dynamic Graphs[J]<br /> 
     Z. Yuan, <strong> Minglai Shao* </strong>,  Q. Yan <br /> 
@@ -127,6 +127,7 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
 </ul>
 
 <strong> Prior to 2023 </strong>
+<p style="line-height:1.6em;">
 <ul>
     <li>
       Towards a Multi-view Attentive Matching for Personalized Expert Finding [C]. <br /> 
@@ -257,7 +258,7 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
       Proceedings of the 2nd International Conference on Software Engineering, Knowledge Engineering and Information Engineering (SEKEIE 2014)
   </li>
 </ul>
-
+</p>
 
 
 ### <b>Awards/Honors</b>
