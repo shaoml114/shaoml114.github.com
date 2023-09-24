@@ -39,16 +39,18 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
 - PC：WWW, IJCAI, KDD, AAAI, WSDM, ECAI, etc.
 - Reviewer: WWW, IJCAI, TDSC, TIFS, TKDE, ICDM, WSDM, KDD, AAAI, TNNLS, NIPS, etc.
 
-
+<p style="line-height:2em;"></p>
 
 ### <b>Publications</b>
 
 <strong>2023</strong>
 <ul>
   <li> 
+    <p style="line-height:2em;">
     Motif-level Anomaly Detection in Dynamic Graphs[J]<br /> 
     Z. Yuan, <strong> Minglai Shao* </strong>,  Q. Yan <br /> 
     IEEE Transactions on Information Forensics and Security (<strong>TIFS</strong>), 2023.(CCF A, SCI 1区)
+    </p>
   </li>  
   
   <li> 
