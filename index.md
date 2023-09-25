@@ -27,7 +27,7 @@ If you are interested in the position, please send your application to Prof. Sha
 ### <b>Research Interests</b>
 - Deep Learning, Machine Learning, Trustworthy AI.
 - Anomaly Detection, Graph Mining.
-- Natural Language Processing (NLP), Intelligent Communication.
+- Intelligent Communication, Natural Language Processing.
 - Data Mining and Data Science in Real-world Applications.
 
 ### <b>Eduction Experience</b>
