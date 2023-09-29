@@ -4,7 +4,7 @@
     <td width="75%">
       <h1><b>Minglai Shao (邵明来), Ph.D.</b></h1>
       <p><b> Tenured Associate Professor (英才副教授，特聘研究员，博士生导师)</b></p>
-      <p><b> <a href="http://snmc.tju.edu.cn/info/1138/1579.htm"> School of New Media and Communication</a></b></p>
+      <p><b> <a href="http://snmc.tju.edu.cn/info/113/1579.htm"> School of New Media and Communication</a></b></p>
       <p><b> Smart Society and Bigdata Intelligence Team</b></p>
       <p><b><a href="http://www.tju.edu.cn/">Tianjin University, China</a></b></p>
       <p><b>Contact: shaoml@tju.edu.cn</b></p>
@@ -45,7 +45,7 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
 
 <strong>2023</strong>
 <ul>
-  <p style="line-height:1.66em;">
+  <p style="line-height:1.em;">
   <li> 
     Motif-level Anomaly Detection in Dynamic Graphs[J]<br /> 
     Z. Yuan, <strong> Minglai Shao* </strong>,  Q. Yan <br /> 
@@ -134,7 +134,7 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
 
 <strong> Prior to 2023 </strong>
 <ul>
-  <p style="line-height:1.66em;">
+  <p style="line-height:1.8em;">
     <li>
       Towards a Multi-view Attentive Matching for Personalized Expert Finding [C]. <br /> 
       Qiyao Peng, Hongtao Liu, Yinghui Wang, Hongyan Xu, Pengfei Jiao, <strong>Minglai Shao*</strong>, Wenjun Wang.   <br /> 
@@ -190,7 +190,7 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
 
 
 <ul>
-  <p style="line-height:1.66em;">
+  <p style="line-height:1.8em;">
   <li>
    Structured sparsity model based trajectory tracking using private location data release[J]<br /> 
    <strong>Minglai Shao</strong>, Jianxin Li, Qiben Yan, Feng Chen, Hongyi Huang, Xunxun Chen<br /> 
@@ -209,7 +209,7 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
     <li>
       PGraph: A Graph-based Structure for Interactive Event Exploration on Social Media[C]<br /> 
        Yang Yu, <strong>Minglai Shao*</strong>, Hongyan Xu, Ying Sun, Wenjun Wang, Bofei Ma. <br /> 
-      2021 28th Asia-Pacific Software Engineering Conference (APSEC). IEEE, 2021: 72-81. 
+      2021 2th Asia-Pacific Software Engineering Conference (APSEC). IEEE, 2021: 72-1. 
   </li>
     <li>
     Porn2Vec: A robust framework for detecting pornographic websites based on contrastive learning[J].<br /> 
@@ -226,7 +226,7 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
 
 
 <ul>
-  <p style="line-height:1.66em;">
+  <p style="line-height:1.8em;">
   <li>
   Multi-attributed heterogeneous graph convolutional network for bot detection[J]. <br /> 
   Jun Zhao, Xudong Liu, Qiben Yan, Bo Li, <strong>Minglai Shao</strong>, Hao Peng.<br /> 
@@ -240,12 +240,12 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
     <li>
       TIMiner: Automatically extracting and analyzing categorized cyber threat intelligence from social data[J].<br /> 
        Jun Zhao, Qiben Yan, Jianxin Li, <strong>Minglai Shao</strong>, Zuti He, Bo Li. <br /> 
-      Computers & Security, 2020, 95: 101867. (CCF B)
+      Computers & Security, 2020, 95: 10167. (CCF B)
   </li>
     <li>
       An efficient framework for detecting evolving anomalous subgraphs in dynamic networks[C]<br /> 
       <strong>Minglai Shao</strong>, Jianxin Li, Feng Chen, Xunxun Chen. <br /> 
-      IEEE INFOCOM 2018-IEEE Conference on Computer Communications (<strong>INFOCOM</strong>), 2018 (CCF A)
+      IEEE INFOCOM 201-IEEE Conference on Computer Communications (<strong>INFOCOM</strong>), 201 (CCF A)
   </li>
     <li>
      An efficient approach to event detection and forecasting in dynamic multivariate social media networks[C]<br /> 
