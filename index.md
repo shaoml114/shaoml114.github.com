@@ -121,7 +121,7 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
   <li> 
       Pursuing Counterfactual Fairness via Sequential Autoencoder Across Domains  <br /> 
       Y. Lin, C. Zhao, <strong>Minglai Shao*</strong>, B. Meng,  X. Zhao, H. Chen.<br /> 
-      arXiv preprint arXiv:2309.13005, 2023
+      arXiv preprint arXiv:2309.13005, 2023.
   </li> 
   
    <li> 
