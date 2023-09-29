@@ -44,6 +44,7 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
 ### <b>Publications</b>
 
 <strong>2023</strong>
+<ol>
 <ul>
   <p style="line-height:1.em;">
   <li> 
@@ -131,6 +132,7 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
   </li> 
   </p>
 </ul>
+</ol>
 
 <strong> Prior to 2023 </strong>
 <ul>
