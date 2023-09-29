@@ -117,7 +117,13 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
       X. Zhao, C. Zhao, <strong>Minglai Shao*</strong> <br /> 
       Thirty-Seventh AAAI Conference on Artificial Intelligence Workshops 2023. (CCF A-W)
   </li> 
-    
+
+  <li> 
+      Pursuing Counterfactual Fairness via Sequential Autoencoder Across Domains  <br /> 
+      Y. Lin, C. Zhao, <strong>Minglai Shao*</strong>, B. Meng,  X. Zhao, H. Chen.<br /> 
+      arXiv preprint arXiv:2309.13005, 2023
+  </li> 
+  
    <li> 
     Deep Cross-Network Alignment with Anchor Node Pair Diverse Local Structure[J]. <br /> 
     Y. Wang, W. Wang, <strong>Minglai Shao</strong>, et al. <br /> 
