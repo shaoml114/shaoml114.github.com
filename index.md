@@ -74,7 +74,7 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
      J. Li, Y. Sun, <strong>Minglai Shao* </strong>. <br /> 
      In Proceedings of the ACM International Conference on Information and Knowledge Management (full paper, oral), 2023 (CCF B)
   </li>
-    .
+    
   <li>
     Adaptation Speed Analysis for Fairness-aware Causal Models. <br /> 
     Y. Lin, C. Zhao, <strong>Minglai Shao* </strong>, X. Zhao and H. Chen. <br /> 
