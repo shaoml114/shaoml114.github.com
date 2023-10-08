@@ -86,6 +86,12 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
       <strong>Minglai Shao</strong>, Y. Lin, Q. Peng, W.,  Y. Sun <br /> 
       Knowledge-Based Systems, 2023. (SCI 1区)
   </li> 
+  
+  <li>
+    RHGNN: Fake Reviewer Detection Based on Reinforced Heterogeneous Graph Neural Networks <br />
+    J. Zhao, <strong>Minglai Shao</strong>, H. Tang, J. Liu, L. Du, H, Wang.
+    Knowledge-Based Systems, 2023. (SCI 1区)
+  </li>
     
   <li> 
      Robust Few-shot Graph Anomaly Detection via Graph Coarsening. <br /> 
