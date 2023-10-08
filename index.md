@@ -74,12 +74,18 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
      J. Li, Y. Sun, <strong>Minglai Shao* </strong>. <br /> 
      In Proceedings of the ACM International Conference on Information and Knowledge Management (full paper, oral), 2023 (CCF B)
   </li>
-    
+    .
   <li>
     Adaptation Speed Analysis for Fairness-aware Causal Models. <br /> 
     Y. Lin, C. Zhao, <strong>Minglai Shao* </strong>, X. Zhao and H. Chen. <br /> 
     In Proceedings of the ACM International Conference on Information and Knowledge Management (full paper, oral), 2023 (CCF B)
   </li>
+
+   <li>
+     Adaptive End-to-End Metric Learning for Zero-Shot Cross-Domain Slot Filling. <br /> 
+     Y. Shi, <strong>Minglai Shao* </strong> <br /> 
+     The 2023 Conference on Empirical Methods in Natural Language Processing(EMNLP), 2023 (CCF B)
+   </li>
     
   <li>
      Learning Graph Deep Autoencoder for Anomaly Detection in Multi-attributed Networks.  <br /> 
