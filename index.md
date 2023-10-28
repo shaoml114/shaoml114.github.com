@@ -2,8 +2,8 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h1><b>Minglai Shao (邵明来), Ph.D.</b></h1>
-      <p><b> Tenured Associate Professor (英才副教授，特聘研究员，博士生导师)</b></p>
+      <h1><b>Minglai Shao (邵明来), Ph.D.,博士生导师 </b></h1>
+      <p><b> Tenured Associate Professor (英才副教授，特聘研究员)</b></p>
       <p><b> <a href="http://snmc.tju.edu.cn/info/113/1579.htm"> School of New Media and Communication</a></b></p>
       <p><b><a href="http://www.tju.edu.cn/">Tianjin University, China</a></b></p>
       <p><b>Contact: shaoml@tju.edu.cn</b></p>
