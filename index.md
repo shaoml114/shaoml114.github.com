@@ -83,7 +83,7 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
 
    <li>
      Adaptive End-to-End Metric Learning for Zero-Shot Cross-Domain Slot Filling. <br /> 
-     Y. Shi, <strong>Minglai Shao* </strong> <br /> 
+     Y. Shi, Wu, <strong>Minglai Shao* </strong> <br /> 
      The 2023 Conference on Empirical Methods in Natural Language Processing(EMNLP), (CCF B)
    </li>
     
