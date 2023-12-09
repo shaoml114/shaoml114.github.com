@@ -122,6 +122,11 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
       Y. Lin,  C. Zhao,  <strong>Minglai Shao* </strong>, X. Zhao, H. Chen. <br /> 
      The 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining Workshop on Ethical Artificial Intelligence: Methods and Applications (KDD-EAI), 2023. (CCF A-W)
   </li> 
+
+  <li> Achieving Counterfactual Fairness in Changing Environments via Sequential Autoencoder. <br /> 
+    Y. Lin, C. Zhao,  <strong>Minglai Shao* </strong>, X. Zhao, B. Meng, H.  Chen <br /> 
+   NeurIPS Workshop on Algorithmic Fairness through the Lens of Time (AFT), 2023  (CCF A-W)
+  </li>
     
   <li> 
       Detecting Multi-Label Out-of-Distribution Nodes on Graphs <br /> 
