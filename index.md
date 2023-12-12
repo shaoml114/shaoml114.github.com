@@ -48,13 +48,13 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
   <li> 
     Motif-level Anomaly Detection in Dynamic Graphs[J]<br /> 
     Z. Yuan, <strong> Minglai Shao* </strong>,  Q. Yan <br /> 
-    IEEE Transactions on Information Forensics and Security (<strong>TIFS</strong>), 2023.(CCF A, SCI 1区)
+    IEEE Transactions on Information Forensics and Security (<strong>TIFS</strong>), 2023. (CCF A, SCI 1区)
   </li>  
 
    <li> 
     Graph Bayesian Optimization for Multiplex Influence Maximization<br /> 
     Z. Yuan, <strong> Minglai Shao* </strong>,  Z. Chen <br /> 
-    The 38th Annual AAAI Conference on Artificial Intelligence (AAAI).(CCF A)
+    The 38th Annual AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>). (CCF A)
   </li>  
     
   <li> 
