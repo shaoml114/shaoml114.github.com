@@ -51,12 +51,7 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
     IEEE Transactions on Information Forensics and Security (<strong>TIFS</strong>), 2023. (CCF A, SCI 1区)
   </li>  
 
-   <li> 
-    Graph Bayesian Optimization for Multiplex Influence Maximization<br /> 
-    Z. Yuan, <strong> Minglai Shao* </strong>,  Z. Chen <br /> 
-    The 38th Annual AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>). (CCF A)
-  </li>  
-    
+
   <li> 
      Multi-view Change Point Detection in Dynamic Networks[J]<br /> 
      Y. Xie, W. Wang, <strong>Minglai Shao* </strong>, T. Li, Y. Yu<br /> 
