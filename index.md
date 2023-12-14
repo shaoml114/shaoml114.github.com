@@ -103,7 +103,7 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
   <li>
    Graph Bayesian Optimization for Multiplex Influence Maximization <br />
   Z. Yuan, <strong>Minglai Shao</strong>, Z. Chen  <br />
-   The  Annual AAAI Conference on Artificial Intelligence (AAAI)
+   The  Annual AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>>)
   </li>
     
   <li> 
