@@ -42,6 +42,8 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
 
 ### <b>Publications</b>
 
+
+
 <strong>2023</strong>
 <ul>
   <p style="line-height:1.em;">
@@ -50,7 +52,12 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
     Z. Yuan, <strong> Minglai Shao* </strong>,  Q. Yan <br /> 
     IEEE Transactions on Information Forensics and Security (<strong>TIFS</strong>), 2023. (CCF A, SCI 1区)
   </li>  
-
+    
+  <li>
+   Graph Bayesian Optimization for Multiplex Influence Maximization <br />
+  Z. Yuan, <strong>Minglai Shao*</strong>, Z. Chen  <br />
+   The  Annual AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>)  (CCF A)
+  </li>
 
   <li> 
      Multi-view Change Point Detection in Dynamic Networks[J]<br /> 
@@ -100,12 +107,7 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
     Knowledge-Based Systems, 2023. (SCI 1区)
   </li>
 
-  <li>
-   Graph Bayesian Optimization for Multiplex Influence Maximization <br />
-  Z. Yuan, <strong>Minglai Shao*</strong>, Z. Chen  <br />
-   The  Annual AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>)  (CCF A)
-  </li>
-    
+   
   <li> 
      Robust Few-shot Graph Anomaly Detection via Graph Coarsening. <br /> 
      L. Li, Y. Sun, T. Li, and <strong>Minglai Shao* </strong>. <br /> 
