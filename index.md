@@ -56,6 +56,19 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
   Q.Peng, H. Liu, C. Huo, <strong>Minglai Shao*</strong>, W. Wang  <br />
   The 33rd International Joint Conference on Artificial Intelligence (<strong>IJCAI 2024</strong>)  (CCF A) 
   </li>  
+
+ <li> 
+  Towards Counterfactual Fairness-aware Domain Generalization in Changing Environments <br />
+  Y. Lin, C. Zhao,  <strong>Minglai Shao*</strong>, B. Meng, X. Zhao, H., Chen  <br />
+  The 33rd International Joint Conference on Artificial Intelligence (<strong>IJCAI 2024</strong>)  (CCF A) 
+  </li> 
+
+   <li> 
+  Supervised Algorithmic Fairness in Distribution Shifts: A Survey <br />
+  <strong>Minglai Shao*</strong>, D. Li, C. Zhao, X. Wu, Y. Lin, Q. Tian  <br />
+  The 33rd International Joint Conference on Artificial Intelligence (<strong>IJCAI 2024</strong>)  (CCF A) 
+  </li> 
+  
 </ul>
 
 
