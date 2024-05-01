@@ -45,11 +45,6 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
 <strong>2024</strong>
 <ul>
   <p style="line-height:2.em;">
-  <li> 
-  Graph Bayesian Optimization for Multiplex Influence Maximization <br />
-  Z. Yuan, <strong>Minglai Shao*</strong>, Z. Chen  <br />
-  The  Annual AAAI Conference on Artificial Intelligence (<strong>AAAI 2024</strong>)  (CCF A) 
-  </li>
 
   <li> 
   Graph Collaborative Expert Finding with Contrastive Learning <br />
@@ -68,7 +63,13 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
   <strong>Minglai Shao*</strong>, Li, C. Zhao, X. Wu, Y. Lin, Tian  <br />
   The 33rd International Joint Conference on Artificial Intelligence (<strong>IJCAI 2024</strong>)  (CCF A) 
   </li> 
-  
+
+  <li> 
+  Graph Bayesian Optimization for Multiplex Influence Maximization <br />
+  Z. Yuan, <strong>Minglai Shao*</strong>, Z. Chen  <br />
+  The  Annual AAAI Conference on Artificial Intelligence (<strong>AAAI 2024</strong>)  (CCF A) 
+  </li>
+
    <li> 
   Graph Contrastive Learning via Interventional View Generation <br />
   Z., <strong>Minglai Shao*</strong>, et al  <br />
