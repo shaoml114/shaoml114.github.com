@@ -70,9 +70,17 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
   </li> 
    <li> 
   Supervised Algorithmic Fairness in Distribution Shifts: A Survey <br />
-  Z. Wo, <strong>Minglai Shao*</strong>, et al  <br />
+  Z., <strong>Minglai Shao*</strong>, et al  <br />
   The ACM Web Conference 2024 (<strong>WWW 2024</strong>)  (CCF A) 
   </li> 
+  <li>
+    [Orgnizer, Chair] Workshops on Robust Machine Learning for Distribution Shifts (RobustMLDS) <br />
+    1st workshop at IEEE Bigdata'24
+  </li>
+   <li>
+    [Orgnizer, Chair] 2024 IEEE Big Data Cup： Challenges of Trustworthy AI in Distribution Shifts and Algorithmic Fairness <br />
+    1st Cup at IEEE Bigdata'24
+  </li>
   
 </ul>
 
