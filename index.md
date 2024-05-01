@@ -68,15 +68,18 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
   <strong>Minglai Shao*</strong>, D. Li, C. Zhao, X. Wu, Y. Lin, Q. Tian  <br />
   The 33rd International Joint Conference on Artificial Intelligence (<strong>IJCAI 2024</strong>)  (CCF A) 
   </li> 
+  
    <li> 
   Graph Contrastive Learning via Interventional View Generation <br />
   Z., <strong>Minglai Shao*</strong>, et al  <br />
   The ACM Web Conference 2024 (<strong>WWW 2024</strong>)  (CCF A) 
   </li> 
+  
   <li>
     <strong>[Orgnizer, Chair]</strong> Workshops on Robust Machine Learning for Distribution Shifts (RobustMLDS) <br />
     1st workshop at IEEE Bigdata'24
   </li>
+  
    <li>
     <strong>[Orgnizer, Chair]</strong> 2024 IEEE Big Data Cup： Challenges of Trustworthy AI in Distribution Shifts and Algorithmic Fairness <br />
     1st BigData Cup Challenges at IEEE Bigdata'24
