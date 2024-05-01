@@ -68,6 +68,11 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
   <strong>Minglai Shao*</strong>, D. Li, C. Zhao, X. Wu, Y. Lin, Q. Tian  <br />
   The 33rd International Joint Conference on Artificial Intelligence (<strong>IJCAI 2024</strong>)  (CCF A) 
   </li> 
+   <li> 
+  Supervised Algorithmic Fairness in Distribution Shifts: A Survey <br />
+  Z. Wo, <strong>Minglai Shao*</strong>, et al  <br />
+  The ACM Web Conference 2024 (<strong>WWW 2024</strong>)  (CCF A) 
+  </li> 
   
 </ul>
 
