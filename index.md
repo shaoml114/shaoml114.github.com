@@ -42,7 +42,7 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
 
 ### <b>Publications</b>
 
-<strong>2023</strong>
+<strong>2024</strong>
 <ul>
   <p style="line-height:1.em;">
   <li> 
@@ -50,7 +50,7 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
   Z. Yuan, <strong>Minglai Shao*</strong>, Z. Chen  <br />
   The  Annual AAAI Conference on Artificial Intelligence (<strong>AAAI 2024</strong>)  (CCF A) 
   </li>
-  </li>
+</ul>
 
 <strong>2023</strong>
 <ul>
