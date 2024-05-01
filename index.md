@@ -50,7 +50,15 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
   Z. Yuan, <strong>Minglai Shao*</strong>, Z. Chen  <br />
   The  Annual AAAI Conference on Artificial Intelligence (<strong>AAAI 2024</strong>)  (CCF A) 
   </li>
+
+  <li> 
+  Graph Collaborative Expert Finding with Contrastive Learning <br />
+  Q.Peng, H. Liu, C. Huo, <strong>Minglai Shao*</strong>, W. Wang  <br />
+  The 33rd International Joint Conference on Artificial Intelligence (<strong>IJCAI 2024</strong>)  (CCF A) 
+  </li>  
 </ul>
+
+
 
 <strong>2023</strong>
 <ul>
@@ -61,12 +69,6 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
     IEEE Transactions on Information Forensics and Security (<strong>TIFS</strong>), 2023. (CCF A, SCI 1区)
   </li>  
     
-  <li>
-   Graph Bayesian Optimization for Multiplex Influence Maximization <br />
-  Z. Yuan, <strong>Minglai Shao*</strong>, Z. Chen  <br />
-   The  Annual AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>)  (CCF A)
-  </li>
-
   <li> 
      Multi-view Change Point Detection in Dynamic Networks[J]<br /> 
      Y. Xie, W. Wang, <strong>Minglai Shao* </strong>, T. Li, Y. Yu<br /> 
