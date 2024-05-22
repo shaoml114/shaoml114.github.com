@@ -75,6 +75,12 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
   Z., <strong>Minglai Shao*</strong>, et al  <br />
   The ACM Web Conference 2024 (<strong>WWW 2024</strong>)  (CCF A) 
   </li> 
+
+  <li> 
+  Deep Expertise and Interest Personalized Transformer for Expert Finding <br />
+  Y. Wang, Q.Peng, H. Liu, H. Xu, <strong>Minglai Shao*</strong>, W. Wang* <br />
+  Information Processing & Management (IPM) (SCI 1区) 
+  </li>  
   
   <li>
     <strong>[Orgnizer, Chair]</strong> Workshops on Robust Machine Learning for Distribution Shifts (RobustMLDS) <br />
