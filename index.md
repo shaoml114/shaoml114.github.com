@@ -81,6 +81,13 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
   Y. Wang, Q.Peng, H. Liu, H. Xu, <strong>Minglai Shao*</strong>, W. Wang* <br />
   Information Processing & Management (IPM) (SCI 1区) 
   </li>  
+
+  <li> 
+  Diffusion Review-based Recommendation <br />
+  X. He, Q.Peng,  <strong>Minglai Shao*</strong>, Y. Sun <br />
+  The 17th International Conference on Knowledge Science, Engineering and Management 
+  </li>  
+
   
   <li>
     <strong>[Orgnizer, Chair]</strong> Workshops on Robust Machine Learning for Distribution Shifts (RobustMLDS) <br />
