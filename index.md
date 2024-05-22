@@ -84,7 +84,7 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
 
   <li> 
   Diffusion Review-based Recommendation <br />
-  X. He, Q.Peng,  <strong>Minglai Shao*</strong>, Y. Sun <br />
+  X. He, Q.Peng,  <strong>Minglai Shao</strong>, Y. Sun <br />
   The 17th International Conference on Knowledge Science, Engineering and Management 
   </li>  
 
