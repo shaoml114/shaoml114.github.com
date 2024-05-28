@@ -90,7 +90,7 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
 
   
   <li>
-    <strong>[Orgnizer, Chair]</strong> <p><b> <a href="https://sites.google.com/view/robustmlds24/home"> Workshops on Robust Machine Learning for Distribution Shifts (RobustMLDS)</a></b></p> <br />
+    <strong>[Orgnizer, Chair]</strong>  <a href="https://sites.google.com/view/robustmlds24/home"> Workshops on Robust Machine Learning for Distribution Shifts (RobustMLDS)</a> <br />
     1st workshop at IEEE Bigdata'24
   </li>
   
