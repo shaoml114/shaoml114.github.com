@@ -86,31 +86,31 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
   <li> 
   Addressing Graph Anomaly Detection via Causal Edge Separation and Spectrum <br />
   Z. Wo, W. Wang, <strong>Minglai Shao*</strong>, C. Liu, Y. Wang, Y. Sun <br />
-  The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining Workshop on Uncertainty Reasoning and Quantification in Decision Making (KDD-UDM), 2024. (CCF A-W) 
+  The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining Workshops, 2024. (CCF A-W) 
   </li> 
 
   <li> 
   Out-of-Distribution Detection for Heterogeneous Graph Neural Networks <br />
   T. Yin, C. Zhao, <strong>Minglai Shao*</strong> <br />
-  The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining Workshop on Uncertainty Reasoning and Quantification in Decision Making (KDD-UDM), 2024. (CCF A-W) 
+  The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining Workshops, 2024. (CCF A-W) 
   </li> 
 
   <li> 
   HyperDG: A Hypergraph-Based Approach for Dynamic Graph Node Classification under Spatio-Temporal Shift <br />
   X. Ma, C. Zhao, <strong>Minglai Shao*</strong> <br />
-  The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining Workshop on Uncertainty Reasoning and Quantification in Decision Making (KDD-UDM), 2024. (CCF A-W) 
+  The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining Workshops, 2024. (CCF A-W) 
   </li> 
 
   <li> 
   IDGG: Invariant Learning for Out-of-Distribution Generalization on Graphs <br />
   Q. Tian, W. Wang,  <strong>Minglai Shao*</strong>,C. Zhao, D. Li <br />
-  The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining Workshop on Uncertainty Reasoning and Quantification in Decision Making (KDD-UDM), 2024. (CCF A-W) 
+  The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining Workshops, 2024. (CCF A-W) 
   </li> 
 
  <li> 
   Semantic OOD Detection under Covariate Shift on Graphs with Diffusion Model <br />
   Z. He, C. Zhao, <strong>Minglai Shao*</strong>, Y. Lin, D. Li <br />
-  The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining Workshop on Uncertainty Reasoning and Quantification in Decision Making (KDD-UDM), 2024. (CCF A-W) 
+  The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining Workshops, 2024. (CCF A-W) 
   </li> 
 
 
