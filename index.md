@@ -113,6 +113,18 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
   The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining Workshops, 2024. (CCF A-W) 
   </li> 
 
+ <li> 
+  Fair Data Generation via Score-based Diffusion Model <br />
+  Y. Lin, D. Li, C. Zhao, <strong>Minglai Shao*</strong> <br />
+  The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining Workshops, 2024. (CCF A-W) 
+  </li> 
+
+ <li> 
+  Improving Fairness in Graph Neural Networks via Counterfactual Debiasing <br />
+  Z. Wo, C. Liu, C. Zhao, Y. Wang, <strong>Minglai Shao*</strong>, W. Wang <br />
+  The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining Workshops, 2024. (CCF A-W) 
+  </li> 
+
 
 
   <li> 
