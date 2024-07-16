@@ -126,6 +126,13 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
   </li> 
 
 
+ <li> 
+  LLM: Harnessing Large Language Models for Personalized Review Generation <br />
+  Q Peng, H Liu, H Xu, Q Yang, <strong>M Shao</strong>, W Wang <br />
+  arXiv preprint arXiv:2407.07487
+  </li> 
+
+
 
   <li> 
   Diffusion Review-based Recommendation <br />
