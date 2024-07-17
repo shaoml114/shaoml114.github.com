@@ -82,6 +82,11 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
   Information Processing & Management (IPM) (SCI 1区) 
   </li>  
 
+   <li> 
+  Learning Fair Invariant Representations under Covariate and Correlation Shifts Simultaneously. (To appear)
+  D. Li, C. Zhao, <strong> Minglai Shao</strong>, W. Wang.
+  In Proceedings of the ACM International Conference on Information and Knowledge Management (full paper), 2024 (CCF B) 
+    </li>  
 
   <li> 
   Addressing Graph Anomaly Detection via Causal Edge Separation and Spectrum <br />
