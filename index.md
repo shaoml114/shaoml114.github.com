@@ -129,7 +129,12 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
   Z. Wo, C. Liu, C. Zhao, Y. Wang, <strong>Minglai Shao*</strong>, W. Wang <br />
   30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining Workshops. (CCF A-W) 
   </li> 
-
+  
+ <li> 
+  CeDFormer: Community Enhanced Transformer for Dynamic Network Embedding <br />
+  J. Guo, T. Li, <strong>Minglai Shao</strong>, W. Wang, et al <br />
+  30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining Workshops. (CCF A-W) 
+  </li> 
 
  <li> 
   LLM: Harnessing Large Language Models for Personalized Review Generation <br />
