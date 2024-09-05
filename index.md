@@ -157,7 +157,7 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
   </li>
   
    <li>
-    <strong>[Orgnizer, Chair]</strong> 2024 IEEE Big Data Cup： Challenges of Trustworthy AI in Distribution Shifts and Algorithmic Fairness <br />
+    <strong>[Orgnizer, Chair]</strong> <a href="https://bigdatacup-e2j7tqwypbrkm8zsmqstmm.streamlit.app/">2024 IEEE Big Data Cup： Challenges of Trustworthy AI in Distribution Shifts and Algorithmic Fairness <br />
     1st BigData Cup Challenges at IEEE Bigdata'24
   </li>
   </p>
