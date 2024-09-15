@@ -84,7 +84,7 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
 
    <li> 
   Learning Fair Invariant Representations under Covariate and Correlation Shifts Simultaneously. <br />
-  D. Li, C. Zhao, <strong> Minglai Shao</strong>, W. Wang.<br />
+  D. Li, C. Zhao, <strong> Minglai Shao*</strong>, W. Wang*.<br />
   In Proceedings of the ACM International Conference on Information and Knowledge Management(CIKM), 2024 (CCF B) 
     </li>  
 
