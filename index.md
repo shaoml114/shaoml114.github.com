@@ -88,6 +88,12 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
   In Proceedings of the ACM International Conference on Information and Knowledge Management(CIKM), 2024 (CCF B) 
     </li>  
 
+ <li> 
+  Dynamic heterogeneous graph contrastive networks for knowledge tracing. <br />
+  Y. Han, H. Tang, W. Zhang, L. Du, J. Zhao, <strong> Minglai Shao</strong><br />
+  Applied Soft Computing, 2024  (SCI 1区) 
+ </li>  
+    
   <li> 
   Addressing Graph Anomaly Detection via Causal Edge Separation and Spectrum <br />
   Z. Wo, W. Wang, <strong>Minglai Shao*</strong>, C. Liu, Y. Wang, Y. Sun <br />
