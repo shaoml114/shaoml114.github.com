@@ -29,7 +29,7 @@ If you are interested in the position, please send your application to Prof. Sha
 - Intelligent Communication, Natural Language Processing.
 - Data Mining and Data Science in Real-world Applications.
 
-### <b>Eduction Experience</b>
+### <b>Education Experience</b>
 
 Minglai Shao received his doctoral degree in the School of Computer Science and Engineering from Beihang University, under the supervision of Prof. [Jianxin Li](https://scse.buaa.edu.cn/info/1078/2674.htm).  He was a visiting scholar at the State University of New York.
 
