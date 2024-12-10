@@ -47,6 +47,19 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
   <p style="line-height:2.em;">
 
   <li> 
+  MLDGG: Meta-Learning for Domain Generalization on Graphs <br />
+  Q. Tian, C. Zhao, <strong>Minglai Shao*</strong>, W. Wang, Y. Lin, D. Li  <br />
+  In Proceedings of the ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2025  (CCF A) 
+  </li>  
+  </p>
+</ul>
+
+
+<strong>2024</strong>
+<ul>
+  <p style="line-height:2.em;">
+
+  <li> 
   Graph Collaborative Expert Finding with Contrastive Learning <br />
   Q.Peng, H. Liu, C. Huo, <strong>Minglai Shao*</strong>, W. Wang  <br />
   The 33rd International Joint Conference on Artificial Intelligence (<strong>IJCAI 2024</strong>)  (CCF A) 
