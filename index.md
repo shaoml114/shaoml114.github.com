@@ -49,7 +49,7 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
   <li> 
   MLDGG: Meta-Learning for Domain Generalization on Graphs <br />
   Q. Tian, C. Zhao, <strong>Minglai Shao*</strong>, W. Wang, Y. Lin, D. Li  <br />
-  In Proceedings of the ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2025  (CCF A) 
+  In Proceedings of the ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<strong>KDD 2025</strong>)  (CCF A) 
   </li>  
   </p>
 </ul>
