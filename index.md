@@ -50,6 +50,21 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
   MLDGG: Meta-Learning for Domain Generalization on Graphs <br />
   Q. Tian, C. Zhao, <strong>Minglai Shao*</strong>, W. Wang, Y. Lin, D. Li  <br />
   In Proceedings of the ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<strong>KDD 2025</strong>)  (CCF A) 
+  </li> 
+   <li> 
+  GDDA: Semantic OOD Detection on Graphs under Covariate Shift via Score-Based Diffusion Model. <br />
+  Z. He, C. Zhao, <strong>Minglai Shao*</strong>, Y. Lin, D. Li, Q. Tian  <br />
+  In Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing, 2025  (CCF B) 
+  </li>  
+   <li> 
+  Hypergraph-Based Dynamic Graph Node Classification. <br />
+  X. Ma, C. Zhao, <strong>Minglai Shao*</strong>, Y. Lin  <br />
+  In Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing, 2025  (CCF B) 
+  </li>  
+   <li> 
+  Evidence-Based Out-of-Distribution Detection on Multi-Label Graphs. <br />
+  R. Ding, X. Zhao, C. Zhao, <strong>Minglai Shao*</strong>, Z. Chen, H. Chen  <br />
+  In Proceedings of the SIAM International Conference on Data Mining, 2025  (CCF B) 
   </li>  
   </p>
 </ul>
