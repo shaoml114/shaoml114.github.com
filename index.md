@@ -71,6 +71,11 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
   Y. Yu,  <strong>Minglai Shao*</strong>, X. Li, W. Wang  <br />
   Neurocomputing, 2025 
   </li> 
+
+  <li>
+    <strong>[Orgnizer, Chair]</strong>  <a href="[https://sites.google.com/view/robustmlds24/home](https://sites.google.com/view/arrml-25/home)"> Workshops on Robust Machine Learning for Distribution Shifts (RobustMLDS)</a> <br />
+    ARRML @ SDM'25
+  </li>
   </p>
 </ul>
 
