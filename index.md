@@ -78,7 +78,7 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
   </li> 
 
   <li>
-    <strong>[Orgnizer, Chair]</strong>  <a href="[https://sites.google.com/view/robustmlds24/home](https://sites.google.com/view/arrml-25/home)"> The 2nd Workshops on Advances in Robust and Reliable Machine Learning 
+    <strong>[Orgnizer, Chair]</strong>  <a href="[https://sites.google.com/view/arrml-25/home](https://sites.google.com/view/arrml-25/home)"> The 2nd Workshops on Advances in Robust and Reliable Machine Learning 
     </a> <br />
     ARRML @ SDM'25
   </li>
