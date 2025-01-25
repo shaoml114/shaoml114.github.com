@@ -66,10 +66,15 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
   R. Ding, X. Zhao, C. Zhao, <strong>Minglai Shao*</strong>, Z. Chen, H. Chen  <br />
   In Proceedings of the SIAM International Conference on Data Mining, 2025  (CCF B) 
   </li>  
-    <li> 
+  <li> 
   Temporal Multivariate-factors Independence Convolution Network for Anomaly Detection in Dynamic Networks. <br />
   Y. Yu,  <strong>Minglai Shao*</strong>, X. Li, W. Wang  <br />
   Neurocomputing, 2025 
+  </li> 
+  <li> 
+  Mining Denoising Complementarity and Consistent Consensus for Unsupervised Multiplex Graph Representation Learning. <br />
+  C. Liu, Z. Wo <strong>Minglai Shao*</strong>, W. Wang,  Q. Tian  <br />
+  The 30th International Conference on Database Systems for Advanced Applications, 2025 (CCF B) 
   </li> 
 
   <li>
