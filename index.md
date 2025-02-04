@@ -76,6 +76,12 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
   C. Liu, Z. Wo <strong>Minglai Shao*</strong>, W. Wang,  Q. Tian  <br />
   The 30th International Conference on Database Systems for Advanced Applications, 2025 (CCF B) 
   </li> 
+  
+  <li> 
+  A comprehensive survey on GNN‑based anomaly detection: taxonomy, methods, and the role of large language models. <br />
+  Z. Yuan, Q. Sun, H. Zhou, <strong>Minglai Shao</strong>, X. Fu<br />
+  International Journal of Machine Learning and Cybernetics 
+  </li> 
 
   <li>
     <strong>[Orgnizer, Chair]</strong>  <a href="https://sites.google.com/view/arrml-25/home"> The 2nd Workshops on Advances in Robust and Reliable Machine Learning 
