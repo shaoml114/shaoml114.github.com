@@ -71,6 +71,13 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
   Y. Yu,  <strong>Minglai Shao*</strong>, X. Li, W. Wang  <br />
   Neurocomputing, 2025 
   </li> 
+
+  <li> 
+   Temporal Subgraph Contrastive Learning for Anomaly Detection on Dynamic Attributed Graphs. <br />
+  Y. Yu,  X. Li,  <strong>Minglai Shao</strong>, Y. Sun, W. Wang  <br />
+  Applied Intelligence, 2025 
+  </li> 
+ 
   <li> 
   Mining Denoising Complementarity and Consistent Consensus for Unsupervised Multiplex Graph Representation Learning. <br />
   C. Liu, Z. Wo <strong>Minglai Shao*</strong>, W. Wang,  Q. Tian  <br />
