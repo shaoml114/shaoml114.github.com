@@ -66,6 +66,11 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
   R. Ding, X. Zhao, C. Zhao, <strong>Minglai Shao*</strong>, Z. Chen, H. Chen  <br />
   In Proceedings of the SIAM International Conference on Data Mining, 2025  (CCF B) 
   </li>  
+   <li> 
+  Graph Out-of-Distribution Generalization through Contrastive Learning Paradigm. <br />
+  H. Du, X. Li, <strong>Minglai Shao*</strong>  <br />
+  Knowledge-Based Systems, 2025  (SCI 1区) 
+  </li>  
   <li> 
   Temporal Multivariate-factors Independence Convolution Network for Anomaly Detection in Dynamic Networks. <br />
   Y. Yu,  <strong>Minglai Shao*</strong>, X. Li, W. Wang  <br />
