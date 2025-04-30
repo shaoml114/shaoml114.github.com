@@ -52,26 +52,26 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
   In Proceedings of the ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<strong>KDD 2025</strong>)  (CCF A) 
   </li> 
   <li> 
-  FADE: Towards Fairness-aware Data Generation for Domain Generalization via Classifier-Guided Score-based Diffusion Models.
-  Yujie Lin*, Dong Li*, <strong>Minglai Shao*</strong>, Guihong Wan, Chen Zhao.
+  FADE: Towards Fairness-aware Data Generation for Domain Generalization via Classifier-Guided Score-based Diffusion Models.<br />
+  Yujie Lin*, Dong Li*, <strong>Minglai Shao*</strong>, Guihong Wan, Chen Zhao.<br />
   In Proceedings of the 34th International Joint Conference on Artificial Intelligence, 2025 (CCF A) 
   </li> 
   
   <li> 
-  Leveraging Personalized PageRank and Higher-Order Topological Structures for Heterophily Mitigation in Graph Neural Networks
-  Yumeng Wang*, Zengyi Wo*, Wang Wenjun, Xingcheng Fu, <strong>Minglai Shao*</strong>, Guihong Wan, Chen Zhao.
+  Leveraging Personalized PageRank and Higher-Order Topological Structures for Heterophily Mitigation in Graph Neural Networks<br />
+  Yumeng Wang*, Zengyi Wo*, Wang Wenjun, Xingcheng Fu, <strong>Minglai Shao*</strong>, Guihong Wan, Chen Zhao.<br />
   In Proceedings of the 34th International Joint Conference on Artificial Intelligence, 2025 (CCF A) 
   </li> 
 
   <li> 
-  HPDM: A Hierarchical Popularity-aware Debiased Modeling Approach for Personalized News Recommender
-  X. He, Q. Peng, <strong>Minglai Shao</strong>, H. Liu.
+  HPDM: A Hierarchical Popularity-aware Debiased Modeling Approach for Personalized News Recommender<br />
+  X. He, Q. Peng, <strong>Minglai Shao</strong>, H. Liu.<br />
   In Proceedings of the 34th International Joint Conference on Artificial Intelligence, 2025 (CCF A) 
   </li> 
 
   <li> 
-  Mitigating Message Imbalance in Fraud Detection with Dual-View Graph Representation Learning
-  yudan song, Yuecen Wei, Yuhang Lu, Qingyun Sun, Xingcheng Fu,  <strong>Minglai Shao</strong>, Li-e Wang, Chunming Hu, Xianxian Li
+  Mitigating Message Imbalance in Fraud Detection with Dual-View Graph Representation Learning<br />
+  yudan song, Yuecen Wei, Yuhang Lu, Qingyun Sun, Xingcheng Fu,  <strong>Minglai Shao</strong>, Li-e Wang, Chunming Hu, Xianxian Li<br />
   In Proceedings of the 34th International Joint Conference on Artificial Intelligence, 2025 (CCF A) 
   </li> 
   
