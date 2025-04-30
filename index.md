@@ -59,7 +59,7 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
   
   <li> 
   Leveraging Personalized PageRank and Higher-Order Topological Structures for Heterophily Mitigation in Graph Neural Networks<br />
-  Yumeng Wang*, Zengyi Wo*, Wang Wenjun, Xingcheng Fu, <strong>Minglai Shao*</strong>, Guihong Wan, Chen Zhao.<br />
+  Yumeng Wang*, Zengyi Wo*, Wang Wenjun, Xingcheng Fu, <strong>Minglai Shao*</strong><br />
   In Proceedings of the 34th International Joint Conference on Artificial Intelligence (<strong>IJCAI 2025</strong>)  (CCF A) 
   </li> 
 
