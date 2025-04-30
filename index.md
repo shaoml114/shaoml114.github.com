@@ -54,25 +54,25 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
   <li> 
   FADE: Towards Fairness-aware Data Generation for Domain Generalization via Classifier-Guided Score-based Diffusion Models.<br />
   Yujie Lin*, Dong Li*, <strong>Minglai Shao*</strong>, Guihong Wan, Chen Zhao.<br />
-  In Proceedings of the 34th International Joint Conference on Artificial Intelligence, 2025 (CCF A) 
+  In Proceedings of the 34th International Joint Conference on Artificial Intelligence (<strong>IJCAI 2025</strong>)  (CCF A) 
   </li> 
   
   <li> 
   Leveraging Personalized PageRank and Higher-Order Topological Structures for Heterophily Mitigation in Graph Neural Networks<br />
   Yumeng Wang*, Zengyi Wo*, Wang Wenjun, Xingcheng Fu, <strong>Minglai Shao*</strong>, Guihong Wan, Chen Zhao.<br />
-  In Proceedings of the 34th International Joint Conference on Artificial Intelligence, 2025 (CCF A) 
+  In Proceedings of the 34th International Joint Conference on Artificial Intelligence (<strong>IJCAI 2025</strong>)  (CCF A) 
   </li> 
 
   <li> 
   HPDM: A Hierarchical Popularity-aware Debiased Modeling Approach for Personalized News Recommender<br />
   X. He, Q. Peng, <strong>Minglai Shao</strong>, H. Liu.<br />
-  In Proceedings of the 34th International Joint Conference on Artificial Intelligence, 2025 (CCF A) 
+  In Proceedings of the 34th International Joint Conference on Artificial Intelligence (<strong>IJCAI 2025</strong>)  (CCF A) 
   </li> 
 
   <li> 
   Mitigating Message Imbalance in Fraud Detection with Dual-View Graph Representation Learning<br />
   yudan song, Yuecen Wei, Yuhang Lu, Qingyun Sun, Xingcheng Fu,  <strong>Minglai Shao</strong>, Li-e Wang, Chunming Hu, Xianxian Li<br />
-  In Proceedings of the 34th International Joint Conference on Artificial Intelligence, 2025 (CCF A) 
+  In Proceedings of the 34th International Joint Conference on Artificial Intelligence (<strong>IJCAI 2025</strong>)  (CCF A) 
   </li> 
   
    <li> 
