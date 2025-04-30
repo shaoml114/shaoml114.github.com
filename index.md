@@ -71,6 +71,10 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
   H. Du, X. Li, <strong>Minglai Shao*</strong>  <br />
   Knowledge-Based Systems, 2025  (SCI 1区) 
   </li>  
+ Out-of-Distribution Detection in Heterogeneous Graphs via Energy Propagation. <br />
+  T. Yin, C. Zhao, X.Liu, <strong>Minglai Shao*</strong>  <br />
+  Knowledge-Based Systems, 2025  (SCI 1区) 
+  </li>  
   <li> 
   Temporal Multivariate-factors Independence Convolution Network for Anomaly Detection in Dynamic Networks. <br />
   Y. Yu,  <strong>Minglai Shao*</strong>, X. Li, W. Wang  <br />
