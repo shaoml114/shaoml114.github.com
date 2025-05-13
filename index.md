@@ -127,12 +127,11 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
     <strong>[Orgnizer, Chair]</strong>  <a href="https://magic-group-buaa.github.io/IJCAI25/index.html"> he 2nd Challenge on Characterizing User Behavior in Social Networks: Propagation, Prediction, and Sensemaking </a> <br />
     IJCAI2025
   </li>
-
     <li>
-    <strong>[Orgnizer, Chair]</strong>  <a href="https://sites.google.com/view/arrml-25/home"> The 2nd Workshops on Advances in Robust and Reliable Machine Learning 
+    <strong>[Orgnizer, Chair]</strong>  <a href="https://sites.google.com/view/arrml-25/home"> The 3rd Challenge on Characterizing User Behavior in Social Networks: Propagation, Prediction, and Sensemaking
     </a> <br />
-    ARRML @ SDM'25
-  </li>
+    ISWC2025
+   </li>
     <li>
     <strong>[Orgnizer, Chair]</strong>  <a href="https://sites.google.com/view/arrml-25/home"> The 2nd Workshops on Advances in Robust and Reliable Machine Learning 
     </a> <br />
