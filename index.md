@@ -52,10 +52,6 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
   In Proceedings of the ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<strong>KDD 2025</strong>)  (CCF A) 
   </li> 
   <li> 
-  Local Homophily-Aware Graph Neural Network with Adaptive Polynomial Filters for Scalable Graph Anomaly Detection <br/>
-  In Proceedings of the ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<strong>KDD 2025</strong>)  (CCF A) 
-  </li> 
-  <li> 
   FADE: Towards Fairness-aware Data Generation for Domain Generalization via Classifier-Guided Score-based Diffusion Models.<br />
   Yujie Lin*, Dong Li*, <strong>Minglai Shao*</strong>, Guihong Wan, Chen Zhao.<br />
   In Proceedings of the 34th International Joint Conference on Artificial Intelligence (<strong>IJCAI 2025</strong>)  (CCF A) 
@@ -78,7 +74,10 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
   yudan song, Yuecen Wei, Yuhang Lu, Qingyun Sun, Xingcheng Fu,  <strong>Minglai Shao</strong>, Li-e Wang, Chunming Hu, Xianxian Li<br />
   In Proceedings of the 34th International Joint Conference on Artificial Intelligence (<strong>IJCAI 2025</strong>)  (CCF A) 
   </li> 
-  
+  <li> 
+  Local Homophily-Aware Graph Neural Network with Adaptive Polynomial Filters for Scalable Graph Anomaly Detection <br/>
+  In Proceedings of the ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<strong>KDD 2025</strong>)  (CCF A) 
+  </li> 
    <li> 
   GDDA: Semantic OOD Detection on Graphs under Covariate Shift via Score-Based Diffusion Model. <br />
   Z. He, C. Zhao, <strong>Minglai Shao*</strong>, Y. Lin, D. Li, Q. Tian  <br />
