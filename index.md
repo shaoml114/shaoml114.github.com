@@ -52,6 +52,11 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
   In Proceedings of the ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<strong>KDD 2025</strong>)  (CCF A) 
   </li> 
   <li> 
+  Local Homophily-Aware Graph Neural Network with Adaptive Polynomial Filters for Scalable Graph Anomaly Detection <br/>
+  <br/>
+  In Proceedings of the ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<strong>KDD 2025</strong>)  (CCF A) 
+  </li> 
+  <li> 
   FADE: Towards Fairness-aware Data Generation for Domain Generalization via Classifier-Guided Score-based Diffusion Models.<br />
   Yujie Lin*, Dong Li*, <strong>Minglai Shao*</strong>, Guihong Wan, Chen Zhao.<br />
   In Proceedings of the 34th International Joint Conference on Artificial Intelligence (<strong>IJCAI 2025</strong>)  (CCF A) 
@@ -95,6 +100,7 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
   H. Du, X. Li, <strong>Minglai Shao*</strong>  <br />
   Knowledge-Based Systems, 2025  (SCI 1区) 
   </li>  
+   <li>
  Out-of-Distribution Detection in Heterogeneous Graphs via Energy Propagation. <br />
   T. Yin, C. Zhao, X.Liu, <strong>Minglai Shao*</strong>  <br />
   Knowledge-Based Systems, 2025  (SCI 1区) 
@@ -124,7 +130,7 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
   </li> 
 
   <li>
-    <strong>[Orgnizer, Chair]</strong>  <a href="https://magic-group-buaa.github.io/IJCAI25/index.html"> he 2nd Challenge on Characterizing User Behavior in Social Networks: Propagation, Prediction, and Sensemaking </a> <br />
+    <strong>[Orgnizer, Chair]</strong>  <a href="https://magic-group-buaa.github.io/IJCAI25/index.html"> The 2nd Challenge on Characterizing User Behavior in Social Networks: Propagation, Prediction, and Sensemaking </a> <br />
     IJCAI2025
   </li>
     <li>
