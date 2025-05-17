@@ -53,7 +53,6 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
   </li> 
   <li> 
   Local Homophily-Aware Graph Neural Network with Adaptive Polynomial Filters for Scalable Graph Anomaly Detection <br/>
-  <br/>
   In Proceedings of the ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<strong>KDD 2025</strong>)  (CCF A) 
   </li> 
   <li> 
