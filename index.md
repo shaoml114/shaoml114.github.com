@@ -105,7 +105,7 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
   </li>  
    <li>
  Hypergraph Convolution Networks for Botnet Detection. <br />
-  J. Li, B. Zhao, G. fu Zhao, J. Lan, J. Zhao and <strong>Minglai Shao*</strong>  <br />
+  J. Li, B. Zhao, G. fu Zhao, J. Lan, J. Zhao and <strong>Minglai Shao</strong>  <br />
   Knowledge-Based Systems, 2025  (SCI 1区) 
   </li>  
   <li> 
