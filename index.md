@@ -103,6 +103,11 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
   T. Yin, C. Zhao, X.Liu, <strong>Minglai Shao*</strong>  <br />
   Knowledge-Based Systems, 2025  (SCI 1区) 
   </li>  
+   <li>
+ Hypergraph Convolution Networks for Botnet Detection. <br />
+  J. Li, B. Zhao, G. fu Zhao, J. Lan, J. Zhao and <strong>Minglai Shao*</strong>  <br />
+  Knowledge-Based Systems, 2025  (SCI 1区) 
+  </li>  
   <li> 
   Temporal Multivariate-factors Independence Convolution Network for Anomaly Detection in Dynamic Networks. <br />
   Y. Yu,  <strong>Minglai Shao*</strong>, X. Li, W. Wang  <br />
