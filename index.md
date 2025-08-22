@@ -81,7 +81,7 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
 
   <li> 
   A Survey on LLM-powered Agents for Recommender Systems <br/>
-  Qiyao Peng, Hongtao Liu, Hua Huang, Jian Yang, Qing Yang, <strong>Minglai Shao</strong>
+  Qiyao Peng, Hongtao Liu, Hua Huang, Jian Yang, Qing Yang, <strong>Minglai Shao</strong>  <br/>
   The 2025 Conference on Empirical Methods in Natural Language Processing (<strong>EMNLP 2025</strong>)  (CCF B) 
   </li> 
 
