@@ -114,6 +114,7 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
   Neurocomputing, 2025 
   </li> 
 
+
   <li> 
    Temporal Subgraph Contrastive Learning for Anomaly Detection on Dynamic Attributed Graphs. <br />
   Y. Yu,  X. Li,  <strong>Minglai Shao</strong>, Y. Sun, W. Wang  <br />
