@@ -78,6 +78,14 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
   Local Homophily-Aware Graph Neural Network with Adaptive Polynomial Filters for Scalable Graph Anomaly Detection <br/>
   In Proceedings of the ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<strong>KDD 2025</strong>)  (CCF A) 
   </li> 
+
+  <li> 
+  A Survey on LLM-powered Agents for Recommender Systems <br/>
+  Qiyao Peng, Hongtao Liu, Hua Huang, Jian Yang, Qing Yang, <strong>Minglai Shao</strong>
+  The 2025 Conference on Empirical Methods in Natural Language Processing (<strong>EMNLP 2025</strong>)  (CCF B) 
+  </li> 
+
+  
    <li> 
   GDDA: Semantic OOD Detection on Graphs under Covariate Shift via Score-Based Diffusion Model. <br />
   Z. He, C. Zhao, <strong>Minglai Shao*</strong>, Y. Lin, D. Li, Q. Tian  <br />
