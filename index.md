@@ -51,6 +51,13 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
   Q. Tian, C. Zhao, <strong>Minglai Shao*</strong>, W. Wang, Y. Lin, D. Li  <br />
   In Proceedings of the ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<strong>KDD 2025</strong>)  (CCF A) 
   </li> 
+
+  <li> 
+  Local Homophily-Aware Graph Neural Network with Adaptive Polynomial Filters for Scalable Graph Anomaly Detection <br/>
+  Z. Wo, <strong>Minglai Shao*</strong>, et al <br />
+  In Proceedings of the ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<strong>KDD 2025</strong>)  (CCF A) 
+  </li> 
+  
   <li> 
   FADE: Towards Fairness-aware Data Generation for Domain Generalization via Classifier-Guided Score-based Diffusion Models.<br />
   Yujie Lin#, Dong Li#, <strong>Minglai Shao*</strong>, Guihong Wan, Chen Zhao.<br />
@@ -74,10 +81,7 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
   yudan song, Yuecen Wei, Yuhang Lu, Qingyun Sun, Xingcheng Fu,  <strong>Minglai Shao</strong>, Li-e Wang, Chunming Hu, Xianxian Li<br />
   In Proceedings of the 34th International Joint Conference on Artificial Intelligence (<strong>IJCAI 2025</strong>)  (CCF A) 
   </li> 
-  <li> 
-  Local Homophily-Aware Graph Neural Network with Adaptive Polynomial Filters for Scalable Graph Anomaly Detection <br/>
-  In Proceedings of the ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<strong>KDD 2025</strong>)  (CCF A) 
-  </li> 
+
 
   <li> 
   A Survey on LLM-powered Agents for Recommender Systems <br/>
@@ -111,6 +115,13 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
   T. Yin, C. Zhao, X.Liu, <strong>Minglai Shao*</strong>  <br />
   Knowledge-Based Systems, 2025  (SCI 1区) 
   </li>  
+  
+  <li>
+ PHO-HGNN: Hypergraph Neural Network Based on Persistent Homology Optimization for Class-imbalanced Intrusion Detection. <br />
+  Yi Gao, Jun Zhao, Hong Wang, <strong>Minglai Shao</strong>  <br />
+  Knowledge-Based Systems, 2025  (SCI 1区) 
+  </li>  
+  
    <li>
  Hypergraph Convolution Networks for Botnet Detection. <br />
   J. Li, B. Zhao, G. fu Zhao, J. Lan, J. Zhao and <strong>Minglai Shao</strong>  <br />
