@@ -57,17 +57,17 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
    The Fortieth AAAI Conference on Artificial Intelligence (<strong>AAAI 2026</strong>)  (CCF A) 
    </li> 
 
-    <li> 
+  <li> 
   	SkillGen: Learning Domain Skills for In-Context Sequential Decision Making <br />
     Ruomeng Ding, Wei Cheng, <strong>Minglai Shao*</strong>, Chen Zhao <br />
-   The Fortieth AAAI Conference on Artificial Intelligence (<strong>AAAI 2026</strong>)  (CCF A) 
-   </li> 
+    The Fortieth AAAI Conference on Artificial Intelligence (<strong>AAAI 2026</strong>)  (CCF A) 
+  </li> 
 
-    <li> 
+  <li> 
   	LLMTM: Benchmarking and Optimizing LLMs for Temporal Motif Analysis in Dynamic Graphs <br />
     Bing Hao, <strong>Minglai Shao*</strong>, Zengyi Wo, Yunlong Chu, Yuhang Liu, Ruijie Wang  <br />
    The Fortieth AAAI Conference on Artificial Intelligence (<strong>AAAI 2026</strong>)  (CCF A) 
-   </li> 
+  </li> 
 
   
   </p>
