@@ -42,6 +42,38 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
 
 ### <b>Publications</b>
 
+<strong>2026</strong>
+<ul>
+  <p style="line-height:2.em;">
+  <li> 
+   Out-of-Distribution Detection with Positive and Negative Prompt Supervision Using Large Language Models <br />
+   Zhixia He, Chen Zhao, <strong>Minglai Shao*</strong>, Xintao Wu, Xujiang Zhao, Dong Li, Qin Tian, Linlin Yu  <br />
+   The Fortieth AAAI Conference on Artificial Intelligence (<strong>AAAI 2026</strong>)  (CCF A) 
+  </li> 
+
+   <li> 
+  	LLM-Enhanced Energy Contrastive Learning for Out-of-Distribution Detection in Text-Attributed Graphs <br />
+    Xiaoxu Ma, Dong Li, <strong>Minglai Shao*</strong>, Xintao Wu, Chen Zhao <br />
+   The Fortieth AAAI Conference on Artificial Intelligence (<strong>AAAI 2026</strong>)  (CCF A) 
+   </li> 
+
+    <li> 
+  	SkillGen: Learning Domain Skills for In-Context Sequential Decision Making <br />
+    Ruomeng Ding, Wei Cheng, <strong>Minglai Shao*</strong>, Chen Zhao <br />
+   The Fortieth AAAI Conference on Artificial Intelligence (<strong>AAAI 2026</strong>)  (CCF A) 
+   </li> 
+
+    <li> 
+  	LLMTM: Benchmarking and Optimizing LLMs for Temporal Motif Analysis in Dynamic Graphs <br />
+    Bing Hao, <strong>Minglai Shao*</strong>, Zengyi Wo, Yunlong Chu, Yuhang Liu, Ruijie Wang  <br />
+   The Fortieth AAAI Conference on Artificial Intelligence (<strong>AAAI 2026</strong>)  (CCF A) 
+   </li> 
+
+  
+  </p>
+</ul>
+
+
 <strong>2025</strong>
 <ul>
   <p style="line-height:2.em;">
