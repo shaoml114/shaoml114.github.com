@@ -69,6 +69,12 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
    The Fortieth AAAI Conference on Artificial Intelligence (<strong>AAAI 2026</strong>)  (CCF A) 
   </li> 
 
+    <li> 
+  	Dynamic hierarchical memory improved mixture-of-experts for multimodal fake news detection <br />
+    Yihong Meng, Hong Wang, Jun Zhao, Yanshen Sun, <strong>Minglai Shao</strong>  <br />
+   Information Processing & Management (SCI 1区) 
+  </li> 
+
   
   </p>
 </ul>
