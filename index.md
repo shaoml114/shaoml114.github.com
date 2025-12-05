@@ -75,6 +75,11 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
    Information Processing & Management (SCI 1区) 
   </li> 
 
+  <li> 
+  	MR-DID: Multi-Relational Graph Neural Network with Adaptive Structural Entropy Optimization for Dynamic Intrusion Detection <br />
+    Yi Gao, Jun Zhao, Hong Wang, <strong>Minglai Shao</strong> <br />
+    Expert Systems with Applications (SCI 1区) 
+  </li> 
   
   </p>
 </ul>
