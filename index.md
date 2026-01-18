@@ -67,7 +67,32 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
   	LLMTM: Benchmarking and Optimizing LLMs for Temporal Motif Analysis in Dynamic Graphs <br />
     Bing Hao, <strong>Minglai Shao*</strong>, Zengyi Wo, Yunlong Chu, Yuhang Liu, Ruijie Wang  <br />
    The Fortieth AAAI Conference on Artificial Intelligence (<strong>AAAI 2026</strong>)  (CCF A) 
-  </li> 
+  </li>
+
+    <li> 
+    Class-Domain Incremental Learning on Graphs via Disentangled Knowledge Distillation.<br />
+    Q. Tian, C. Zhao, <strong>Minglai Shao*</strong>, et al <br />
+    In Proceedings of the Web Conference, 2026 (<strong>WWW 2026</strong>)  (CCF A) 
+    </li> 
+    
+    <li> 
+    Toward Robust Node-Level Graph OOD Generalization with Semantic Awareness.<br />
+    Q. Tian, C. Zhao, <strong>Minglai Shao*</strong>, et al <br />
+    In Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing, 2026  (CCF B) 
+    </li> 
+
+     <li> 
+     Exploring the Existence of Over-Squashing in Directed Networks.<br />
+     K. Zhu,  <strong>Minglai Shao*</strong>, et al <br />
+     In Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing, 2026  (CCF B) 
+    </li> 
+
+     <li> 
+     InsightRec: Enhancing Sequential Recommendation through Reasoning-Aware Preference Optimization<br />
+     H. Huang, Q. Peng, <strong>Minglai Shao*</strong>, et al <br />
+     In Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing, 2026  (CCF B) 
+    </li> 
+
 
   <li> 
   	Dynamic hierarchical memory improved mixture-of-experts for multimodal fake news detection <br />
