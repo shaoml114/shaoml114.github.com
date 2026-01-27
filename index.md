@@ -71,7 +71,7 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
 
   <li> 
     Class-Domain Incremental Learning on Graphs via Disentangled Knowledge Distillation.<br />
-    Q. Tian, C. Zhao, <strong>Minglai Shao*</strong>, et al <br />
+    Q. Tian, C. Zhao, <strong>Minglai Shao</strong>, et al <br />
     In Proceedings of the Web Conference, 2026 (<strong>WWW 2026</strong>)  (CCF A) 
   </li> 
     
@@ -103,6 +103,12 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
   <li> 
   	MR-DID: Multi-Relational Graph Neural Network with Adaptive Structural Entropy Optimization for Dynamic Intrusion Detection <br />
     Yi Gao, Jun Zhao, Hong Wang, <strong>Minglai Shao</strong> <br />
+    Expert Systems with Applications (SCI 1区) 
+  </li> 
+
+  <li> 
+  	Rethinking Heterophilic Graph Learning via Graph Curvature <br />
+    Jian Wang, Xingcheng Fu, Qingyun Sun, Li-E Wang, Hao Peng, Jiting Li, Xianxian Li, <strong>Minglai Shao</strong> <br />
     Expert Systems with Applications (SCI 1区) 
   </li> 
   
