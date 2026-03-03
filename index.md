@@ -74,6 +74,12 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
     Q. Tian, C. Zhao, <strong>Minglai Shao</strong>, et al <br />
     In Proceedings of the Web Conference, 2026 (<strong>WWW 2026</strong>)  (CCF A) 
   </li> 
+
+  <li> 
+    Active Inference for Micro-Gesture Recognition: EFE-Guided Temporal Sampling and Adaptive Learning.<br />
+    Weijia Feng, Yang Jingyu, Ruojia Zhang, Fengtao Sun, Qian Gao, Chenyang Wang, Tongtong Su, Jia Guo, Xiaobai Li, <strong>Minglai Shao</strong> <br />
+    In Proceedings of the Conference on Computer Vision and Pattern Recognition 2026 (<strong>CVPR 2026</strong>)  (CCF A) 
+  </li> 
     
   <li> 
     Toward Robust Node-Level Graph OOD Generalization with Semantic Awareness.<br />
