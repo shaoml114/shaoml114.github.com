@@ -99,6 +99,12 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
      In Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing, 2026  (CCF B) 
   </li> 
 
+   <li> 
+     DynSpectral: A Multi-Channel Temporal Spectral GNN with Frequency Decomposition for Dynamic Graphs<br />
+     Tao, rungun, Li, Tianpeng;  <strong>Minglai Shao</strong>; Wang, Wenjun; Guo, Xuan; Sun, Yueheng <br />
+    The 31st International Conference on Database Systems for Advanced Application, 2026  (CCF B) 
+  </li> 
+
 
   <li> 
   	Dynamic hierarchical memory improved mixture-of-experts for multimodal fake news detection <br />
