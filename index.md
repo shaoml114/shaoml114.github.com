@@ -119,7 +119,7 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
    Information Processing & Management (SCI 1区) 
   </li> 
 
-    <li> 
+  <li> 
   	HSDP: Hypergraph and structure-aware representation learning for information diffusion prediction <br />
     Wang Zhang, Wenjun Wang, Xuan Guo, Tianpeng Li, <strong>Minglai Shao</strong> <br />
    Pattern Recognition (SCI 1区) 
