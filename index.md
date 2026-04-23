@@ -69,6 +69,13 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
    The Fortieth AAAI Conference on Artificial Intelligence (<strong>AAAI 2026</strong>)  (CCF A) 
   </li>
 
+    <li> 
+  	Learning Noise-Resilient and Transferable Graph-Text Alignment via Dynamic Quality Assessment.  <br />
+    Yuhang Liu, <strong>Minglai Shao*</strong>, Zengyi Wo, Yunlong Chu, Bing Hao, Shengzhong Liu, Ruijie Wang, Jianxin Li.  <br />
+    The 49th International ACM SIGIR Conference on Research and Development in Information Retrieval (<strong>SIGIR 2026</strong>)(CCF A) 
+  </li>
+
+
   <li> 
     Class-Domain Incremental Learning on Graphs via Disentangled Knowledge Distillation.<br />
     Q. Tian, C. Zhao, <strong>Minglai Shao</strong>, et al <br />
@@ -110,6 +117,12 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
   	Dynamic hierarchical memory improved mixture-of-experts for multimodal fake news detection <br />
     Yihong Meng, Hong Wang, Jun Zhao, Yanshen Sun, <strong>Minglai Shao</strong> <br />
    Information Processing & Management (SCI 1区) 
+  </li> 
+
+    <li> 
+  	HSDP: Hypergraph and structure-aware representation learning for information diffusion prediction <br />
+    Wang Zhang, Wenjun Wang, Xuan Guo, Tianpeng Li, <strong>Minglai Shao</strong> <br />
+   Pattern Recognition (SCI 1区) 
   </li> 
 
   <li> 
