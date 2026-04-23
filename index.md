@@ -69,8 +69,8 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
    The Fortieth AAAI Conference on Artificial Intelligence (<strong>AAAI 2026</strong>)  (CCF A) 
   </li>
 
-    <li> 
-  	Learning Noise-Resilient and Transferable Graph-Text Alignment via Dynamic Quality Assessment.  <br />
+  <li> 
+  	Learning Noise-Resilient and Transferable Graph-Text Alignment via Dynamic Quality Assessment. <br />
     Yuhang Liu, <strong>Minglai Shao*</strong>, Zengyi Wo, Yunlong Chu, Bing Hao, Shengzhong Liu, Ruijie Wang, Jianxin Li.  <br />
     The 49th International ACM SIGIR Conference on Research and Development in Information Retrieval (<strong>SIGIR 2026</strong>)(CCF A) 
   </li>
