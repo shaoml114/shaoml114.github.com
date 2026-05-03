@@ -90,7 +90,7 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
     
   <li> 
     Toward Robust Node-Level Graph OOD Generalization with Semantic Awareness.<br />
-    Q. Tian, C. Zhao, <strong>Minglai Shao*</strong>, et al <br />
+    Q. Tian, C. Zhao, <strong>Minglai Shao</strong>, et al <br />
     In Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing, 2026  (CCF B) 
   </li> 
 
@@ -305,7 +305,7 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
 
   <li> 
   Deep Expertise and Interest Personalized Transformer for Expert Finding <br />
-  Y. Wang, Q.Peng, H. Liu, H. Xu, <strong>Minglai Shao*</strong>, W. Wang* <br />
+  Y. Wang, Q.Peng, H. Liu, H. Xu, <strong>Minglai Shao</strong>, W. Wang* <br />
   Information Processing & Management (IPM) (SCI 1区) 
   </li>  
 
