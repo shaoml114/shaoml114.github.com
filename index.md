@@ -75,6 +75,30 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
     The 49th International ACM SIGIR Conference on Research and Development in Information Retrieval (<strong>SIGIR 2026</strong>)(CCF A) 
   </li>
 
+  <li> 
+  	SPOT: Span-level Pause-of-Thought for Efficient and Interpretable Latent Reasoning in Large Language Models. <br />
+    Yunlong Chu, <strong>Minglai Shao*</strong>, Yuhang Liu, Bing Hao, Yumeng Lin, Jialu Wang, Ruijie Wang.  <br />
+    The 32nd SIGKDD Conference on Knowledge Discovery and Data Mining (<strong>KDD 2026</strong>)(CCF A) 
+  </li>
+
+  <li> 
+  	RouteGoT: Node-Adaptive Routing for Cost-Efficient Graph of Thoughts Reasoning. <br />
+    Yuhang Liu, Ruijie Wang, Yunlong Chu, Bing Hao, Yumeng Lin, Shengzhong Liu, <strong>Minglai Shao*</strong>.  <br />
+    The 32nd SIGKDD Conference on Knowledge Discovery and Data Mining (<strong>KDD 2026</strong>)(CCF A) 
+  </li>
+
+  <li> 
+  	LEMD: Latent Environment Extrapolation and Message Disentanglement for Dynamic Graph under Distribution Shift. <br />
+    Xiaoran Wei, Chen Zhao, <strong>Minglai Shao*</strong>, Xintao Wu, Zhong Chen, Wenjun Wang, Qin Tian, Chang Liu  <br />
+    The 35th International Joint Conference on Artificial Intelligence (<strong>IJCAI 2026</strong>)(CCF A-B) 
+  </li>
+  
+  <li> 
+  	PURE: Purging Unrelated Representations for Content-Agnostic Forgery Detection. <br />
+    Xinyu Wu, Dong Li, <strong>Minglai Shao</strong>, Xintao Wu, Zhong Chen, Chen Zhao  <br />
+    The 35th International Joint Conference on Artificial Intelligence (<strong>IJCAI 2026</strong>)(CCF A-B) 
+  </li>
+
 
   <li> 
     Class-Domain Incremental Learning on Graphs via Disentangled Knowledge Distillation.<br />
