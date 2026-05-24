@@ -88,6 +88,12 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
   </li>
 
   <li> 
+    Cognitive GenAI-as-a-Service Orchestration in Edge Networks: A Value-Adaptive Multi-Agent Learning Framework<br />
+    Yan Gao, Shaoyuan Huang, <strong>Minglai Shao*</strong>, Huaming Wu,Yansha Deng<br />
+    IEEE Transactions on Cognitive Communications and Networking
+  </li>
+
+  <li> 
   	LEMD: Latent Environment Extrapolation and Message Disentanglement for Dynamic Graph under Distribution Shift. <br />
     Xiaoran Wei, Chen Zhao, <strong>Minglai Shao*</strong>, Xintao Wu, Zhong Chen, Wenjun Wang, Qin Tian, Chang Liu  <br />
     The 35th International Joint Conference on Artificial Intelligence (<strong>IJCAI 2026</strong>)(CCF A-B) 
