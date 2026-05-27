@@ -2,7 +2,7 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h1><b>Minglai Shao (邵明来), Ph.D., 博导，特聘研究员 </b></h1>
+      <h1><b>Minglai Shao (邵明来), Ph.D., 博士生导师，特聘研究员 </b></h1>
       <p><b> </b></p>
       <p><b> <a href="https://snmc.tju.edu.cn/info/1138/1579.htm"> School of New Media and Communication</a></b></p>
       <p><b><a href="http://www.tju.edu.cn/">Tianjin University, China</a></b></p>
