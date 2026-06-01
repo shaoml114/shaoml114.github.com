@@ -60,111 +60,111 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
   <li> 
   	(<strong>CCF A</strong>)SkillGen: Learning Domain Skills for In-Context Sequential Decision Making <br />
     Ruomeng Ding, Wei Cheng, <strong>Minglai Shao*</strong>, Chen Zhao <br />
-    The Fortieth AAAI Conference on Artificial Intelligence (<strong>AAAI 2026</strong>)  (<strong>CCF A</strong>) 
+    The Fortieth AAAI Conference on Artificial Intelligence (<strong>AAAI 2026</strong>) 
   </li> 
 
   <li> 
   	(<strong>CCF A</strong>)LLMTM: Benchmarking and Optimizing LLMs for Temporal Motif Analysis in Dynamic Graphs <br />
     Bing Hao, <strong>Minglai Shao*</strong>, Zengyi Wo, Yunlong Chu, Yuhang Liu, Ruijie Wang  <br />
-   The Fortieth AAAI Conference on Artificial Intelligence (<strong>AAAI 2026</strong>)  (<strong>CCF A</strong>) 
-  </li>
+    The Fortieth AAAI Conference on Artificial Intelligence (<strong>AAAI 2026</strong>) 
+  </li> 
 
   <li> 
   	(<strong>CCF A</strong>)Learning Noise-Resilient and Transferable Graph-Text Alignment via Dynamic Quality Assessment. <br />
     Yuhang Liu, <strong>Minglai Shao*</strong>, Zengyi Wo, Yunlong Chu, Bing Hao, Shengzhong Liu, Ruijie Wang, Jianxin Li.  <br />
-    The 49th International ACM SIGIR Conference on Research and Development in Information Retrieval (<strong>SIGIR 2026</strong>) (<strong>CCF A</strong>) 
+    The 49th International ACM SIGIR Conference on Research and Development in Information Retrieval (<strong>SIGIR 2026</strong>)
   </li>
 
   <li> 
   	(<strong>CCF A</strong>)SPOT: Span-level Pause-of-Thought for Efficient and Interpretable Latent Reasoning in Large Language Models. <br />
     Yunlong Chu, <strong>Minglai Shao*</strong>, Yuhang Liu, Bing Hao, Yumeng Lin, Jialu Wang, Ruijie Wang.  <br />
-    The 32nd SIGKDD Conference on Knowledge Discovery and Data Mining (<strong>KDD 2026</strong>) (<strong>CCF A</strong>) 
+    The 32nd SIGKDD Conference on Knowledge Discovery and Data Mining (<strong>KDD 2026</strong>) 
   </li>
 
   <li> 
   	(<strong>CCF A</strong>)RouteGoT: Node-Adaptive Routing for Cost-Efficient Graph of Thoughts Reasoning. <br />
     Yuhang Liu, Ruijie Wang, Yunlong Chu, Bing Hao, Yumeng Lin, Shengzhong Liu, <strong>Minglai Shao*</strong>.  <br />
-    The 32nd SIGKDD Conference on Knowledge Discovery and Data Mining (<strong>KDD 2026</strong>) (<strong>CCF A</strong>) 
+    The 32nd SIGKDD Conference on Knowledge Discovery and Data Mining (<strong>KDD 2026</strong>) 
   </li>
 
   <li> 
     (<strong>SCI 1区</strong>)Cognitive GenAI-as-a-Service Orchestration in Edge Networks: A Value-Adaptive Multi-Agent Learning Framework<br />
     Yan Gao, Shaoyuan Huang, <strong>Minglai Shao*</strong>, Huaming Wu,Yansha Deng<br />
-    IEEE Transactions on Cognitive Communications and Networking  (<strong>SCI 1区</strong>)
+    IEEE Transactions on Cognitive Communications and Networking 
   </li>
 
   <li> 
   	(<strong>CCF A-B</strong>)LEMD: Latent Environment Extrapolation and Message Disentanglement for Dynamic Graph under Distribution Shift. <br />
     Xiaoran Wei, Chen Zhao, <strong>Minglai Shao*</strong>, Xintao Wu, Zhong Chen, Wenjun Wang, Qin Tian, Chang Liu  <br />
-    The 35th International Joint Conference on Artificial Intelligence (<strong>IJCAI 2026</strong>) (<strong>CCF A-B</strong>) 
+    The 35th International Joint Conference on Artificial Intelligence (<strong>IJCAI 2026</strong>)
   </li>
   
   <li> 
   	(<strong>CCF A-B</strong>)PURE: Purging Unrelated Representations for Content-Agnostic Forgery Detection. <br />
     Xinyu Wu, Dong Li, <strong>Minglai Shao</strong>, Xintao Wu, Zhong Chen, Chen Zhao  <br />
-    The 35th International Joint Conference on Artificial Intelligence (<strong>IJCAI 2026</strong>) (<strong>CCF A-B</strong>) 
+    The 35th International Joint Conference on Artificial Intelligence (<strong>IJCAI 2026</strong>)
   </li>
 
 
   <li> 
     (<strong>CCF A</strong>)Class-Domain Incremental Learning on Graphs via Disentangled Knowledge Distillation.<br />
     Q. Tian, C. Zhao, <strong>Minglai Shao</strong>, et al <br />
-    In Proceedings of the Web Conference, 2026 (<strong>WWW 2026</strong>)   (<strong>CCF A</strong>) 
+    In Proceedings of the Web Conference, 2026 (<strong>WWW 2026</strong>)
   </li> 
 
   <li> 
    (<strong>CCF A</strong>)Active Inference for Micro-Gesture Recognition: EFE-Guided Temporal Sampling and Adaptive Learning.<br />
     Weijia Feng, Yang Jingyu, Ruojia Zhang, Fengtao Sun, Qian Gao, Chenyang Wang, Tongtong Su, Jia Guo, Xiaobai Li, <strong>Minglai Shao</strong> <br />
-    In Proceedings of the Conference on Computer Vision and Pattern Recognition 2026 (<strong>CVPR 2026</strong>)  (<strong>CCF A</strong>) 
+    In Proceedings of the Conference on Computer Vision and Pattern Recognition 2026 (<strong>CVPR 2026</strong>) 
   </li> 
     
   <li> 
     (<strong>CCF B</strong>)Toward Robust Node-Level Graph OOD Generalization with Semantic Awareness.<br />
     Q. Tian, C. Zhao, <strong>Minglai Shao</strong>, et al <br />
-    In Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing, 2026   (<strong>CCF B</strong>) 
+    In Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing, 2026  
   </li> 
 
   <li> 
     (<strong>CCF B</strong>) Exploring the Existence of Over-Squashing in Directed Networks.<br />
      K. Zhu,  <strong>Minglai Shao*</strong>, et al <br />
-     In Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing, 2026  (<strong>CCF B</strong>) 
+     In Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing, 2026 
   </li> 
 
    <li> 
      (<strong>CCF B</strong>)InsightRec: Enhancing Sequential Recommendation through Reasoning-Aware Preference Optimization<br />
      H. Huang, Q. Peng, <strong>Minglai Shao*</strong>, et al <br />
-     In Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing, 2026   (<strong>CCF B</strong>) 
+     In Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing, 2026 
   </li> 
 
    <li> 
      (<strong>CCF B</strong>)DynSpectral: A Multi-Channel Temporal Spectral GNN with Frequency Decomposition for Dynamic Graphs<br />
      Tao, rungun, Li, Tianpeng;  <strong>Minglai Shao</strong>; Wang, Wenjun; Guo, Xuan; Sun, Yueheng <br />
-    The 31st International Conference on Database Systems for Advanced Application, 2026   (<strong>CCF B</strong>) 
+    The 31st International Conference on Database Systems for Advanced Application, 2026  
   </li> 
 
 
   <li> 
   	(<strong>SCI 1区</strong>)Dynamic hierarchical memory improved mixture-of-experts for multimodal fake news detection <br />
     Yihong Meng, Hong Wang, Jun Zhao, Yanshen Sun, <strong>Minglai Shao</strong> <br />
-    Information Processing & Management (<strong>SCI 1区</strong>) 
+    Information Processing & Management 
   </li> 
 
   <li> 
   	(<strong>SCI 1区</strong>)HSDP: Hypergraph and structure-aware representation learning for information diffusion prediction <br />
     Wang Zhang, Wenjun Wang, Xuan Guo, Tianpeng Li, <strong>Minglai Shao</strong> <br />
-   Pattern Recognition (<strong>SCI 1区</strong>) 
+   Pattern Recognition
   </li> 
 
   <li> 
   	(<strong>SCI 1区</strong>)MR-DID: Multi-Relational Graph Neural Network with Adaptive Structural Entropy Optimization for Dynamic Intrusion Detection <br />
     Yi Gao, Jun Zhao, Hong Wang, <strong>Minglai Shao</strong> <br />
-    Expert Systems with Applications (<strong>SCI 1区</strong>) 
+    Expert Systems with Applications 
   </li> 
 
   <li> 
   	(<strong>SCI 1区</strong>)Rethinking Heterophilic Graph Learning via Graph Curvature <br />
     Jian Wang, Xingcheng Fu, Qingyun Sun, Li-E Wang, Hao Peng, Jiting Li, Xianxian Li, <strong>Minglai Shao</strong> <br />
-    Expert Systems with Applications (<strong>SCI 1区</strong>) 
+    Expert Systems with Applications 
   </li> 
   
   </p>
