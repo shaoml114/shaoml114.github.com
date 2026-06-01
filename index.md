@@ -90,7 +90,7 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
   <li> 
     (<strong>SCI 1区</strong>)Cognitive GenAI-as-a-Service Orchestration in Edge Networks: A Value-Adaptive Multi-Agent Learning Framework<br />
     Yan Gao, Shaoyuan Huang, <strong>Minglai Shao*</strong>, Huaming Wu,Yansha Deng<br />
-    IEEE Transactions on Cognitive Communications and Networking 
+    IEEE Transactions on Cognitive Communications and Networking (<strong>TCCN</strong>) 
   </li>
 
   <li> 
