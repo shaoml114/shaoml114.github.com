@@ -166,6 +166,12 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
     Jian Wang, Xingcheng Fu, Qingyun Sun, Li-E Wang, Hao Peng, Jiting Li, Xianxian Li, <strong>Minglai Shao</strong> <br />
     Expert Systems with Applications 
   </li> 
+
+  <li> 
+  	(<strong>SCI 1区</strong>)ProtoZero: An Adaptive Framework for Unknown Attack Detection via Macro-Micro Graph Learning<br />
+    Congheng Hu, Huaxin Zhao, Junwei Du, Junjie Zhang, Jiapeng Zhang, Jun Zhao, <strong>Minglai Shao</strong> <br />
+    Knowledge-Based Systems
+  </li> 
   
   </p>
 </ul>
