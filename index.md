@@ -130,6 +130,12 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
      In Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing, 2026 
   </li> 
 
+  <li> 
+    (<strong>CCF B</strong>) GF-TopoRL: A Lightweight Topology-Aware Reinforcement Learning Scheduler for Distributed LLM Inference Workflows in Edge-Cloud Clusters.<br />
+     Yan Gao and Yonghui Ye and Shaoyuan Huang and <strong>Minglai Shao*</strong> <br />
+     IEEE International Conference on Cluster Computing (CLUSTER), 2026
+  </li> 
+
    <li> 
      (<strong>CCF B</strong>)InsightRec: Enhancing Sequential Recommendation through Reasoning-Aware Preference Optimization<br />
      H. Huang, Q. Peng, <strong>Minglai Shao*</strong>, et al <br />
@@ -164,6 +170,12 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
   <li> 
   	(<strong>SCI 1区</strong>)Rethinking Heterophilic Graph Learning via Graph Curvature <br />
     Jian Wang, Xingcheng Fu, Qingyun Sun, Li-E Wang, Hao Peng, Jiting Li, Xianxian Li, <strong>Minglai Shao</strong> <br />
+    Expert Systems with Applications 
+  </li> 
+
+  <li> 
+  	(<strong>SCI 1区</strong>)Beyond Appearances: Detecting Camouflaged Pornographic Websites with Reinforced Graph Contrastive Networks <br />
+    Jun Zhao, Shenghong Liu, Yi Gao, Zhiquan Liu, <strong>Minglai Shao</strong> <br />
     Expert Systems with Applications 
   </li> 
 
