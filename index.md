@@ -111,6 +111,17 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
     The 35th International Joint Conference on Artificial Intelligence (<strong>IJCAI 2026</strong>)
   </li>
 
+  <li> 
+  	(<strong>CCF B</strong>)Face4FairShifts: A Large Image Benchmark for Fairness and Robust Learning across Visual Domains. <br />
+   Yumeng Lin, Dong Li, Xintao Wu, <strong>Minglai Shao*</strong>, Xingcheng Fu, Xujiang Zhao, Zhong Chen, and Chen Zhao <br />
+   IEEE International Conference on Data Mining (<strong>ICDM 2026</strong>)
+  </li>
+
+  <li> 
+  	(<strong>CCF B</strong>)Neuro-Symbolic Reasoning for Generalizable and Interpretable Zero-Shot Learning. <br />
+   Huaxing Zhao, Xingcheng Fu, Xueyan Liu, <strong>Minglai Shao</strong>, Xianxian Li, and Dongran Yu<br />
+    IEEE International Conference on Data Mining (<strong>ICDM 2026</strong>)
+  </li>
 
   <li> 
     (<strong>CCF A</strong>)Class-Domain Incremental Learning on Graphs via Disentangled Knowledge Distillation.<br />
