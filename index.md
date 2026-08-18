@@ -94,6 +94,12 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
   </li>
 
   <li> 
+    (<strong>SCI 1区</strong>)Workflow-Aware Expert Routing for Distributed LLM Serving over the Edge-Cloud Continuum<br />
+    Yan Gao; Shaoyuan Huang; Yonghui Ye; Jie Fu; <strong>Minglai Shao*</strong>, Huaming Wu<br />
+    IEEE Transactions on Cognitive Communications and Networking (<strong>TCCN</strong>) 
+  </li>
+
+  <li> 
   	(<strong>CCF A-B</strong>)LEMD: Latent Environment Extrapolation and Message Disentanglement for Dynamic Graph under Distribution Shift. <br />
     Xiaoran Wei, Chen Zhao, <strong>Minglai Shao*</strong>, Xintao Wu, Zhong Chen, Wenjun Wang, Qin Tian, Chang Liu  <br />
     The 35th International Joint Conference on Artificial Intelligence (<strong>IJCAI 2026</strong>)
