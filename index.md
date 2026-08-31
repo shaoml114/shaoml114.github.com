@@ -207,6 +207,12 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
     Congheng Hu, Huaxin Zhao, Junwei Du, Junjie Zhang, Jiapeng Zhang, Jun Zhao, <strong>Minglai Shao</strong> <br />
     Knowledge-Based Systems
   </li> 
+
+  <li> 
+  	(<strong>SCI 1区</strong>)IoT Intrusion Detection Based on Reinforced Graph Contrastive Learning with Homophily-heterophily Decoupling <br />
+    Jun Zhao, Shenghong Liu, Hong Wang, Zhiquan Liu, <strong>Minglai Shao</strong> <br />
+    Expert Systems with Applications 
+  </li> 
   
   </p>
 </ul>
