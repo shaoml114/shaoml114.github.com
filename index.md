@@ -213,6 +213,12 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
     Jun Zhao, Shenghong Liu, Hong Wang, Zhiquan Liu, <strong>Minglai Shao</strong> <br />
     Expert Systems with Applications 
   </li> 
+
+ <li> 
+  	(<strong>SCI 1区</strong>)CG-MIA: A Causal Generalization Framework for Cross-Domain Graph Membership Inference Attack <br />
+    Peipei Sui, Liu Yang∗, Yuecen Wei, Sitong Liub, <strong>Minglai Shao </strong> and Xingcheng Fu <br />
+    Knowledge-Based Systems 
+  </li> 
   
   </p>
 </ul>
