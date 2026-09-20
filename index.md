@@ -24,9 +24,9 @@ If you are interested in the position, please send your application to Prof. Sha
 ---
 
 ### <b>Research Interests</b>
-- Deep Learning, Machine Learning, Trustworthy AI.
+- LLM, Agent, Deep Learning, Machine Learning, Trustworthy AI.
 - Anomaly Detection, Graph Mining.
-- Intelligent Communication, Recommender Systems, LLM, Agent.
+- Intelligent Communication, Recommender Systems.
 - Data Mining and Data Science in Real-world Applications.
 
 ### <b>Education Experience</b>
