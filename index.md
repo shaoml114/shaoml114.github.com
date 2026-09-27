@@ -219,6 +219,12 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
     Peipei Sui, Liu Yang∗, Yuecen Wei, Sitong Liub, <strong>Minglai Shao </strong> and Xingcheng Fu <br />
     Knowledge-Based Systems 
   </li> 
+
+  <li> 
+  	(<strong>SCI 1区</strong>)HGIB-Pro: Heterogeneous graph contrastive neural network with information bottleneck for open-set intrusion detection<br />
+    Yi Gao, Jun Zhao, Lei Zhang, Hong Wang, <strong>Minglai Shao</strong> <br />
+    Expert Systems with Applications 
+  </li> 
   
   </p>
 </ul>
