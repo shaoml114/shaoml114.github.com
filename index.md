@@ -165,6 +165,12 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
      In Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing, 2026 
   </li> 
 
+    <li> 
+     (<strong>CCF B</strong>)TRACE: Task-Relevant Adaptation via Cross-graph Estimation for Protein–Ligand Affinity Prediction<br />
+     Xiaoran Wei, <strong>Minglai Shao*</strong>, Wenjun Wang, Jie Fu, and Siyuan Cao <br />
+     International Conference on Bioinformatics and Biomedicine, 2026 
+  </li> 
+
    <li> 
      (<strong>CCF B</strong>)DynSpectral: A Multi-Channel Temporal Spectral GNN with Frequency Decomposition for Dynamic Graphs<br />
      Tao, rungun, Li, Tianpeng;  <strong>Minglai Shao</strong>; Wang, Wenjun; Guo, Xuan; Sun, Yueheng <br />
