@@ -159,7 +159,7 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
      IEEE International Conference on Cluster Computing (CLUSTER), 2026
   </li> 
 
-   <li> 
+  <li> 
      (<strong>CCF B</strong>)InsightRec: Enhancing Sequential Recommendation through Reasoning-Aware Preference Optimization<br />
      H. Huang, Q. Peng, <strong>Minglai Shao*</strong>, et al <br />
      In Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing, 2026 
