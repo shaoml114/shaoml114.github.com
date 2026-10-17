@@ -165,7 +165,7 @@ Minglai Shao received his doctoral degree in the School of Computer Science and 
      In Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing, 2026 
   </li> 
 
-    <li> 
+  <li> 
      (<strong>CCF B</strong>)TRACE: Task-Relevant Adaptation via Cross-graph Estimation for Protein–Ligand Affinity Prediction<br />
      Xiaoran Wei, <strong>Minglai Shao*</strong>, Wenjun Wang, Jie Fu, and Siyuan Cao <br />
      International Conference on Bioinformatics and Biomedicine, 2026 
